@@ -4,7 +4,8 @@ This page provides a complete list of parts needed to build the LeKiwi mobile ma
 
 Detailed instructions for 3D printing are provided in [3D Printing](3DPrinting.md).
 
-> **Note:** prices and items may vary depending on geographic location. If you find links for other countries, please create an issue or PR so that we add them to the list!
+> **Note**: prices and items may vary depending on geographic location. If you find links for other countries, please create an issue or PR so that we add them to the list!
+
 
 ### Mobile Base Structure:
 | Part | Amount | Unit Cost (US) | Buy (US) | 
@@ -17,7 +18,6 @@ Detailed instructions for 3D printing are provided in [3D Printing](3DPrinting.m
 | M2.5 Assorted Screw Set | 1 | $9.99 | [Amazon](https://www.amazon.com/Pieces-Washers-Sutemribor-Assortment-Threaded/dp/B0CXQ4QTGT/ref=sr_1_4?crid=1M778HFHOMCV7&dib=eyJ2IjoiMSJ9.7xqI0lM_jVAcmsIlWCHsPL5BY8rAQC1GELBvEe85ErE4FUGmxXVhLMPNVOSYQOniOVWzFIGcNMUskfxNLr6IjesvmY9UX0hvi9aP1H5w1RrHYK0OGPApk9FEZd-l351v9Z___xmQkIRK1Qx65kjN6HKIUYIdtqoO7y6vawJc7rBIRERXdcOBAkULDJRKk7IGwE0r7ULbfiRwYS_paM_BwJmAEKN5M-khH39kX6CFe20MhyF3iLQFrXacDmi0nVTjLJSMmeovWyjvyReqhPsiJp30cNfsLLuGDLS75saWcciSkFNL5P18T-I9b0nDPLt5UG45JhEgtTv170LiJ-it3XhBW1bycUJ_fH4JJDlqnXE.RlP4AuVp5gYr2fJRK-9Oh55gIvwjJu9-JWD6HwRab9M&dib_tag=se&keywords=m2.5%2Bscrews&qid=1734976319&s=industrial&sprefix=m2.5%2Bscrews%2Cindustrial%2C184&sr=1-4&th=1) |
 | M3 Assorted Standoff Set | 1 | $14.99 | [Amazon](https://www.amazon.com/Standoffs-Motherboard-Assortment-Threaded-Circuit/dp/B0CBPGKDP4/ref=sr_1_2_sspa?crid=V9UASO56L13G&dib=eyJ2IjoiMSJ9.Nhq3VwxGOpdGGMrBOfRAY906UxdhSK-UtZnp0jBR7WhpwceYVers3z-zdfU2YotQreAKlZv3mWB5jqigogU3bjjrZc08dGSXTJtsO54mgyDpxvY5xsrkp4YSuW9QEYgzmz7s_rl91YsPrXE2mhOMBYVehCy1WZZn_UCAjTxDd9uovovodW0PX5sYtJ40VNzF9k-Jyt_5hJXMnCQssoJZUZPsFWKQtp3CZ3kaAYgYZ7lsYBYHs9P0R_zlO70YrQx4o6BHjnnla0EzjLd0G4zaPySwDo89G-JuG3AOEVoKC08.Jmq_T2nk9T_zxzsBBH2TQS3TAyxiES8glHpEPpJFDiY&dib_tag=se&keywords=m3%2Bmetal%2Bstandoff%2Bkit&qid=1734981239&s=industrial&sprefix=m3%2Bmetal%2Bstandoff%2Bkit%2Cindustrial%2C129&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) |
 | **Total** | | **$** | |
-|
 
 
 ### Mobile Base Electronics:
@@ -31,7 +31,6 @@ Detailed instructions for 3D printing are provided in [3D Printing](3DPrinting.m
 | 12v ST3215 Feetech Servo | 6 | $17.61 | [Alibaba](https://www.alibaba.com/product-detail/6PCS-12V-30KG-STS3215-High-Torque_1601216757543.html?spm=a2700.details.you_may_like.1.5d7322cbznWx4D) |
 | 12v/5v Power Bank | 1 | $34.99 | [Amazon](https://www.amazon.com/Rapthor-Rechargeable-6500mAh-13000mAh-Compatible/dp/B0CQNQ7K8K?gQT=1) |
 | **Total** | | **$** | |
-|
 
 
 ### Sensors and Compute:
@@ -43,7 +42,6 @@ Detailed instructions for 3D printing are provided in [3D Printing](3DPrinting.m
 | Micro-usb to usb hub | 1 | $7.99 | [Amazon](https://www.amazon.com/MakerSpot-Accessories-Charging-Extension-Raspberry/dp/B01JL837X8/ref=sr_1_3?crid=VMIU1U8FP8GK&dib=eyJ2IjoiMSJ9.CgAI6dQMlUIAF1q91GjJhbYWeQQ5TQZrrnldSyDL_o4JWbKBIZiZcjgwAhrU6CoQtfFvw5XpABwRHWGQ96E0-H7VVRHrN43229UOVmQTCOwbebQxvZcMP4rxiVw0UK8pFqzEmGXUAJ0_xapHMOOGjjHKlwOZIFPQY6f1eVCDI4H_ep82D20FFQ8diKcvQUPSswfIPbrDlyZbRTdGz6ZUDy0uckIjEMcw85X_ijW64ThKmOE5JbhKXSizlc-RD1qsSrjlqFyznLM2u-8BzQNVv2pz8PVdZw0rzqsOeVfyw-93cM6mCtLj2Eq8j_kW9JzlGfk_M6NVLROdt8uCXl18INmaAe3Zpr38KIZzeB-G1kk.Ab9lwThVhPF-QcaLuIPYMVqOMVt_v6a3KVHtWCwWFjg&dib_tag=se&keywords=microusb+to+usb+hub&qid=1736181033&s=electronics&sprefix=microusb+to+usb+hub%2Celectronics%2C154&sr=1-3) |
 | microsd card | 1 | $21.99 | [Amazon](https://a.co/d/b07pO8v) |
 | **Total** | | **$** | |
-|
 
 
 ### SO-100 2 Robot Arm Teleoperation Set:
@@ -54,4 +52,3 @@ Detailed instructions for 3D printing are provided in [3D Printing](3DPrinting.m
 | Screwdriver Set | 1 | $6.00 | [Amazon](https://www.amazon.com/Precision-Phillips-Screwdriver-Electronics-Computer/dp/B0DB227RTH) |
 | USB-C Cable | 2 | $11.00 | [Amazon](https://www.amazon.com/Charging-etguuds-Charger-Braided-Compatible/dp/B0B8NWLLW2/?th=1) |
 | **Total** | | **$** | |
-|
