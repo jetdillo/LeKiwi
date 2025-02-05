@@ -17,6 +17,7 @@ We provide ready-to-print STL files for the 3D-printed parts below. These can be
 | [RasPi Case Bottom]() | 1 | |
 | [Workspace camera mount]() | 1 | |
 | [Wrist camera mount]() | 1 | |
+| [Modified Follower Arm Base]() | 1 | |
 | [Follower arm](https://github.com/TheRobotStudio/SO-ARM100) | 1 | |
 | [Leader arm](https://github.com/TheRobotStudio/SO-ARM100) | 1 | |
 
