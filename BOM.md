@@ -1,8 +1,6 @@
 # Bill of Materials
 
-This page provides a complete list of parts needed to build the LeKiwi mobile manipulator.
-
-Detailed instructions for 3D printing are provided in [3D Printing](3DPrinting.md).
+This page provides a complete list of parts needed to build the LeKiwi mobile manipulator. Our total cost is **$474.60**<sup>[1](#footnote1)</sup>.
 
 > **Note**: prices and items may vary depending on geographic location. If you find links for other countries, please create an issue or PR so that we add them to the list!
 
@@ -11,7 +9,9 @@ Detailed instructions for 3D printing are provided in [3D Printing](3DPrinting.m
 | Part | Amount | Unit Cost (US) | Buy (US) | 
 |:---|:---:|:---:|:---|
 | 4" Omni wheels | 3 | $9.99 | [VEX Robotics](https://www.vexrobotics.com/omni-wheels.html?srsltid=AfmBOorWdWT-FIiWSAbicYWSxqYr-d5X3CJSGxMkO33WO0thwlTn4DQu) |
-| M3 Assorted Screw Set | 1 | #7.99 | [Amazon](https://www.amazon.com/Metric-Screws-Suitable-Printer-Assortment/dp/B0B51BFSWZ/ref=sr_1_4?crid=S09MZPTUBUII&dib=eyJ2IjoiMSJ9.URDjZWhzK8QwMz0NSSz-hB-KwhCa-0bmgx1bOdxdJw3R-misNLKyE1K65kPttUqK_J5_5SefaLSIousZsRerx4os27GwqLk5-rOg5otNGTj1xrBec7X1sr4IH6dYgO_Lxvkbb-WBjWR-jZoqon8fw0OiSd_umheCaJ9Ou4_YI_U--tVKaf-veujKjxR0P2ovIdpVNUsOAB9mh5O6iK4COYzbU_6GIXuWpAAC_5ASoNIA11gB2354FLX_AEsRdMVEiBxUdrD8xN8L6L2bljz8nsLH0Ts0-RcB-P-3jdgsAlq2br6i5HMvMCI4h599eblTY8mSD0ggh5M34Toni3Rnp3J4_iMOtzTccCSMWf-GID4.TXtFtHE00whwp9Z1P5RF_vbQA4_fGWNdejX6KHrvnFc&dib_tag=se&keywords=m3%2Bscrews&qid=1734975698&s=industrial&sprefix=m3%2Bscrews%2Cindustrial%2C160&sr=1-4&th=1) |
+| Turtlebot3 Rubber Wheels | 1 | $9.40 | [Robotis](https://www.robotis.us/tb3-wheel-tire-set-isw-01-2ea/?srsltid=AfmBOoq6bmZSxLBtSiR8wnkA2TZDklC-esKfTG9HxCnljf7C3vYESVu8) |
+| Turtlebot3 Ball Wheels | 2 | $3.50 | [Robotis](https://www.robotis.us/tb3-ball-caster-a01-1ea/?srsltid=AfmBOopcuv-z1SdoXIOlb21yz-Exj4s5epDo7aEeoFz0lb9IMyKU3xTe) |
+| M3 Assorted Screw Set | 1 | $7.99 | [Amazon](https://www.amazon.com/Metric-Screws-Suitable-Printer-Assortment/dp/B0B51BFSWZ/ref=sr_1_4?crid=S09MZPTUBUII&dib=eyJ2IjoiMSJ9.URDjZWhzK8QwMz0NSSz-hB-KwhCa-0bmgx1bOdxdJw3R-misNLKyE1K65kPttUqK_J5_5SefaLSIousZsRerx4os27GwqLk5-rOg5otNGTj1xrBec7X1sr4IH6dYgO_Lxvkbb-WBjWR-jZoqon8fw0OiSd_umheCaJ9Ou4_YI_U--tVKaf-veujKjxR0P2ovIdpVNUsOAB9mh5O6iK4COYzbU_6GIXuWpAAC_5ASoNIA11gB2354FLX_AEsRdMVEiBxUdrD8xN8L6L2bljz8nsLH0Ts0-RcB-P-3jdgsAlq2br6i5HMvMCI4h599eblTY8mSD0ggh5M34Toni3Rnp3J4_iMOtzTccCSMWf-GID4.TXtFtHE00whwp9Z1P5RF_vbQA4_fGWNdejX6KHrvnFc&dib_tag=se&keywords=m3%2Bscrews&qid=1734975698&s=industrial&sprefix=m3%2Bscrews%2Cindustrial%2C160&sr=1-4&th=1) |
 | M4 Assorted Screw Set | 1 | $8.98 | [Amazon](https://www.amazon.com/Kadrick-Assortment-Metric-Washers-Upgrade/dp/B0BZ6XG8PT/ref=sr_1_3?crid=1G7FQ42KNO5L1&dib=eyJ2IjoiMSJ9.aDGHL0CPbW0i4LAyjtKQoXUbiu8HwfugKKJSrUBxIjGmPwdj9tTcitPYSoY4qflHilrLWgLTU6QkTKN5Dq3a_-CdufV_OPaIQ43vfPRcNdgaYBUxP3xZxljD9IcFsyOBKDRZ9z5seBWn-NrTmBFDKtArTs5DPI3y_frdYv5zuEclg3jb6ZfsSoTGImdlYPsZiQO0OvyvDEuAbd0b9MyIwI36Q7RWPgM28VaMTWElxtXaabhYWlV3XBPPVqHOG-fJmz12pHaF349DO6v6XwFHfY6Chkqll_6crNH324lJay_VJIP9aWed2vP9KLZmgzC-VSKyUAxoaLZNw-yz92lE913P6y9iU32oLn3_G628NqU.IKTmKKQMz9v32hVpumvwkWPvg5XWKG0ytrJfdvMygcQ&dib_tag=se&keywords=m4%2Bassorted%2Bscrews&qid=1734975948&s=industrial&sprefix=m4%2Bassorted%2Bscrews%2Cindustrial%2C188&sr=1-3&th=1) |
 | M2.5 Assorted Screw Set | 1 | $9.99 | [Amazon](https://www.amazon.com/Pieces-Washers-Sutemribor-Assortment-Threaded/dp/B0CXQ4QTGT/ref=sr_1_4?crid=1M778HFHOMCV7&dib=eyJ2IjoiMSJ9.7xqI0lM_jVAcmsIlWCHsPL5BY8rAQC1GELBvEe85ErE4FUGmxXVhLMPNVOSYQOniOVWzFIGcNMUskfxNLr6IjesvmY9UX0hvi9aP1H5w1RrHYK0OGPApk9FEZd-l351v9Z___xmQkIRK1Qx65kjN6HKIUYIdtqoO7y6vawJc7rBIRERXdcOBAkULDJRKk7IGwE0r7ULbfiRwYS_paM_BwJmAEKN5M-khH39kX6CFe20MhyF3iLQFrXacDmi0nVTjLJSMmeovWyjvyReqhPsiJp30cNfsLLuGDLS75saWcciSkFNL5P18T-I9b0nDPLt5UG45JhEgtTv170LiJ-it3XhBW1bycUJ_fH4JJDlqnXE.RlP4AuVp5gYr2fJRK-9Oh55gIvwjJu9-JWD6HwRab9M&dib_tag=se&keywords=m2.5%2Bscrews&qid=1734976319&s=industrial&sprefix=m2.5%2Bscrews%2Cindustrial%2C184&sr=1-4&th=1) |
 | M3 Assorted Standoff Set | 1 | $14.99 | [Amazon](https://www.amazon.com/Standoffs-Motherboard-Assortment-Threaded-Circuit/dp/B0CBPGKDP4/ref=sr_1_2_sspa?crid=V9UASO56L13G&dib=eyJ2IjoiMSJ9.Nhq3VwxGOpdGGMrBOfRAY906UxdhSK-UtZnp0jBR7WhpwceYVers3z-zdfU2YotQreAKlZv3mWB5jqigogU3bjjrZc08dGSXTJtsO54mgyDpxvY5xsrkp4YSuW9QEYgzmz7s_rl91YsPrXE2mhOMBYVehCy1WZZn_UCAjTxDd9uovovodW0PX5sYtJ40VNzF9k-Jyt_5hJXMnCQssoJZUZPsFWKQtp3CZ3kaAYgYZ7lsYBYHs9P0R_zlO70YrQx4o6BHjnnla0EzjLd0G4zaPySwDo89G-JuG3AOEVoKC08.Jmq_T2nk9T_zxzsBBH2TQS3TAyxiES8glHpEPpJFDiY&dib_tag=se&keywords=m3%2Bmetal%2Bstandoff%2Bkit&qid=1734981239&s=industrial&sprefix=m3%2Bmetal%2Bstandoff%2Bkit%2Cindustrial%2C129&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) |
@@ -48,4 +48,12 @@ Detailed instructions for 3D printing are provided in [3D Printing](3DPrinting.m
 | Serial Bus Servo Controller | 2 | $10.55 | [Amazon](https://www.amazon.com/Waveshare-Integrates-Control-Circuit-Supports/dp/B0CTMM4LWK/ref=sr_1_5?crid=1DQJCEEE215LP&dib=eyJ2IjoiMSJ9.gY47WLA3iZcGpEIethhA2B7DZV9DTXiR0x26sSsooS_4k9VNWxjPOctEHfIRwiGhqHG8eBT624Xf06RIlWE47sfB5KtFa5NZmtf-u0aKYnjULtxPKoTpmYt6Lj-L7eH7mR2Kuog5eP11btxWLKU-8n6ME7CXqMLpnbOc1wtgglx40tW0TYMsMrbojOn-VXPujIYMixN7mWcCSxHg3JU9C9EeYm_fcJ_dF10j4uW3Sec.RWBAd63wJrpVUIRm_97ACdd5wW4TYulH6p9_V1g4ApA&dib_tag=se&keywords=waveshare+servo+bus+board&qid=1734981387&sprefix=waveshare+servo+bus+boar%2Caps%2C182&sr=8-5) |
 | Screwdriver Set | 1 | $6.00 | [Amazon](https://www.amazon.com/Precision-Phillips-Screwdriver-Electronics-Computer/dp/B0DB227RTH) |
 | USB-C Cable | 2 | $11.00 | [Amazon](https://www.amazon.com/Charging-etguuds-Charger-Braided-Compatible/dp/B0B8NWLLW2/?th=1) |
-| **Total** | | **$** | |
+| **Total** | | **$45.16** | |
+
+
+> Head to [3D Printing](3DPrinting.md) for the next step!
+
+<br></br>
+
+## Footnotes
+<a name="footnote1">1</a>: Doesn't include cost of 3D printing
