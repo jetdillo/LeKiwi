@@ -8,16 +8,18 @@ We provide ready-to-print STL files for the 3D-printed parts below. These can be
 
 | Item | Quantity | Notes | 
 |:---|:---:|:---:|
-| [Base plate]() | 2 | |
+| [Base plate Top]() | 1 | |
+| [Base plate Bottom]() | 1 | |
 | [Drive motor mount]() | 3 | |
 | [Omni wheel mount]() | 3 | |
 | [Servo controller mount]() | 1 | |
+| [WaveShare mount plate]() | 1 | |
 | [LiPo battery mount]() | 1 | |
-| [RasPi Case Top]() | 1 | |
-| [RasPi Case Bottom]() | 1 | |
+| [RasPi case Top]() | 1 | |
+| [RasPi case Bottom]() | 1 | |
 | [Workspace camera mount]() | 1 | |
 | [Wrist camera mount]() | 1 | |
-| [Modified Follower Arm Base]() | 1 | |
+| [Modified Follower Arm Base]() | 1 | **Optional** |
 | [Follower arm](https://github.com/TheRobotStudio/SO-ARM100) | 1 | |
 | [Leader arm](https://github.com/TheRobotStudio/SO-ARM100) | 1 | |
 
