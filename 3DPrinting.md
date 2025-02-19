@@ -1,5 +1,5 @@
 # 3D Printing
-> **Estimated time:** <span style="color:red">X</span> days
+> **Estimated time:** ~34 hours
 
 We provide ready-to-print STL files for the 3D-printed parts below. These can be printed with generic PLA filament on consumer-grade FDM printers. We tested on a [Bambu Lab P1S](https://us.store.bambulab.com/products/p1s) printer.
 
@@ -11,12 +11,12 @@ We provide ready-to-print STL files for the 3D-printed parts below. These can be
 | [Base plate Top]() | 1 | |
 | [Base plate Bottom]() | 1 | |
 | [Drive motor mount]() | 3 | |
-| [Omni wheel mount]() | 3 | |
+| [Omni wheel mount]() | 3 | <sup>[1](#footnote1)</sup> |
 | [Servo controller mount]() | 1 | |
 | [WaveShare mount plate]() | 1 | |
 | [LiPo battery mount]() | 1 | |
-| [RasPi case Top]() | 1 | |
-| [RasPi case Bottom]() | 1 | |
+| [RasPi case Top]() | 1 | <sup>[2](#footnote2)</sup> |
+| [RasPi case Bottom]() | 1 | <sup>[2](#footnote2)</sup> |
 | [Workspace camera mount]() | 1 | |
 | [Wrist camera mount]() | 1 | |
 | [Modified Follower Arm Base]() | 1 | **Optional** |
@@ -29,7 +29,7 @@ We provide ready-to-print STL files for the 3D-printed parts below. These can be
 
 
 ## Printing Instructions
-Assuming you already have access to a 3D printer<sup>[1](#footnote1)</sup>, follow these steps to print all the parts above.
+Assuming you already have access to a 3D printer<sup>[3](#footnote3)</sup>, follow these steps to print all the parts above.
 
 ### 1. Setup Printer
 1. Calibrate the printer and level beds according to printer-specific instructions
@@ -52,4 +52,8 @@ Assuming you already have access to a 3D printer<sup>[1](#footnote1)</sup>, foll
 > For tutorials on how to assemble the robot, checkout the [Assembly](Assembly.md) page!
 
 ## Footnotes
-<a name="footnote1">1</a>: If not, we recommend [Bambu Lab](https://bambulab.com/en-us) or [Prusa](https://www.prusa3d.com/), or checkout this [list of brands](https://github.com/ad-si/awesome-3d-printing?tab=readme-ov-file#3d-printer-brands).
+<a name="footnote1">1</a>: Modified from VEX design
+
+<a name="footnote2">2</a>: Taken from [Micro Center design](https://www.printables.com/model/605060-raspberry-pi-5-case-wpower-button-v2)
+
+<a name="footnote3">3</a>: If not, we recommend [Bambu Lab](https://bambulab.com/en-us) or [Prusa](https://www.prusa3d.com/), or checkout this [list of brands](https://github.com/ad-si/awesome-3d-printing?tab=readme-ov-file#3d-printer-brands).
