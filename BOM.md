@@ -1,6 +1,6 @@
 # Bill of Materials
 
-This page provides a complete list of parts needed to build the LeKiwi mobile manipulator. Our total cost is **$589.34**<sup>[1](#footnote1)</sup>.
+This page provides a complete list of parts needed to build the LeKiwi mobile manipulator. Our total cost is **$574.33**<sup>[1](#footnote1)</sup>.
 
 > **Note**: prices and items may vary depending on geographic location and time of purchase. If you find links for other countries or cheaper suppliers, please create an issue or PR so that we add them to the list!
 
@@ -38,8 +38,8 @@ This page provides a complete list of parts needed to build the LeKiwi mobile ma
 | 12v ST3215 Feetech Servo | 12 | $17.61 | [Alibaba](https://www.alibaba.com/product-detail/6PCS-12V-30KG-STS3215-High-Torque_1601216757543.html?spm=a2700.details.you_may_like.1.5d7322cbznWx4D) |
 | Serial Bus Servo Controller | 2 | $10.55 | [Amazon](https://www.amazon.com/Waveshare-Integrates-Control-Circuit-Supports/dp/B0CTMM4LWK/ref=sr_1_5?crid=1DQJCEEE215LP&dib=eyJ2IjoiMSJ9.gY47WLA3iZcGpEIethhA2B7DZV9DTXiR0x26sSsooS_4k9VNWxjPOctEHfIRwiGhqHG8eBT624Xf06RIlWE47sfB5KtFa5NZmtf-u0aKYnjULtxPKoTpmYt6Lj-L7eH7mR2Kuog5eP11btxWLKU-8n6ME7CXqMLpnbOc1wtgglx40tW0TYMsMrbojOn-VXPujIYMixN7mWcCSxHg3JU9C9EeYm_fcJ_dF10j4uW3Sec.RWBAd63wJrpVUIRm_97ACdd5wW4TYulH6p9_V1g4ApA&dib_tag=se&keywords=waveshare+servo+bus+board&qid=1734981387&sprefix=waveshare+servo+bus+boar%2Caps%2C182&sr=8-5) |
 | Screwdriver Set | 1 | $6.00 | [Amazon](https://www.amazon.com/Precision-Phillips-Screwdriver-Electronics-Computer/dp/B0DB227RTH) |
-| USB-C Cable | 2 | $11.00 | [Amazon](https://www.amazon.com/Charging-etguuds-Charger-Braided-Compatible/dp/B0B8NWLLW2/?th=1) |
-| **Total** | | **$260.42** | |
+| USB-C Cable 2pcs | 1 | $6.99 | [Amazon](https://www.amazon.com/Charging-etguuds-Charger-Braided-Compatible/dp/B0B8NWLLW2/?th=1) |
+| **Total** | | **$245.41** | |
 
 
 > Head to [3D Printing](3DPrinting.md) for the next step!
