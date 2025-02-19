@@ -27,7 +27,7 @@ This page provides a complete list of parts needed to build the LeKiwi mobile ma
 | 12v to 5v 5a USB-C converter | 1 | $9.99 | [Amazon](https://www.amazon.com/Klnuoxj-Converter-Interface-Waterproof-Compatible/dp/B0CRVW7N2J?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A1QRG6NHEUKUZO&gQT=0&th=1) |
 | Serial Bus Servo Controller | 1 | $10.55 | [Amazon](https://www.amazon.com/Waveshare-Integrates-Control-Circuit-Supports/dp/B0CTMM4LWK/ref=sr_1_5?crid=1DQJCEEE215LP&dib=eyJ2IjoiMSJ9.gY47WLA3iZcGpEIethhA2B7DZV9DTXiR0x26sSsooS_4k9VNWxjPOctEHfIRwiGhqHG8eBT624Xf06RIlWE47sfB5KtFa5NZmtf-u0aKYnjULtxPKoTpmYt6Lj-L7eH7mR2Kuog5eP11btxWLKU-8n6ME7CXqMLpnbOc1wtgglx40tW0TYMsMrbojOn-VXPujIYMixN7mWcCSxHg3JU9C9EeYm_fcJ_dF10j4uW3Sec.RWBAd63wJrpVUIRm_97ACdd5wW4TYulH6p9_V1g4ApA&dib_tag=se&keywords=waveshare+servo+bus+board&qid=1734981387&sprefix=waveshare+servo+bus+boar%2Caps%2C182&sr=8-5) | 
 | 12v ST3215 Feetech Servo | 3 | $17.61 | [Alibaba](https://www.alibaba.com/product-detail/6PCS-12V-30KG-STS3215-High-Torque_1601216757543.html?spm=a2700.details.you_may_like.1.5d7322cbznWx4D) |
-| **Total** | | **$121.55** | |
+| **Total** | | **$122.55** | |
 <!-- | 12v/5v Power Bank | 1 | $34.99 | [Amazon](https://www.amazon.com/Rapthor-Rechargeable-6500mAh-13000mAh-Compatible/dp/B0CQNQ7K8K?gQT=1) | -->
 
 
