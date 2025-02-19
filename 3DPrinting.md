@@ -22,7 +22,8 @@ We provide ready-to-print STL files for the 3D-printed parts below. These can be
 | [Leader arm](https://github.com/TheRobotStudio/SO-ARM100) | 1 | |
 
 
-> **Note**: STL files are already oriented and ready-to-print. Make sure to enable supports where specified!
+> **Note**: Make sure to enable supports where specified!
+<!-- > STL files are already oriented and ready-to-print.  -->
 
 
 ## Printing Instructions
@@ -30,20 +31,21 @@ Assuming you already have access to a 3D printer<sup>[1](#footnote1)</sup>, foll
 
 ### 1. Setup Printer
 1. Calibrate the printer and level beds according to printer-specific instructions
-2. Clean 
+2. Clean the print bed
+3. Load-in filament
 
 ### 2. Print the Parts
 1. Upload STL file to printing/slicing software
 2. Enable supports if specified and slice. We tested with the following settings:
-    - Layer Height: <span style="color:red">X</span> mm
-    - Printing Speed: <span style="color:red">X</span> mm/s
-    - Infill Density: <span style="color:red">X</span>%
+    - Infill Density: 15%
+    - Layer Height: 0.2 mm
+    - Printing Speed: 150 mm/s
 3. If needed, upload G-code (slice file) to printer and print
 
 ### 3. Take Down
 1. Remove printed part(s) from printer
 2. Clean print bed if needed
-3. Remove any supports from parts
+3. Remove any supports from printed parts
 
 > For tutorials on how to assemble the robot, checkout the [Assembly](Assembly.md) page!
 
