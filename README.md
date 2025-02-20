@@ -1,5 +1,5 @@
 # LeKiwi
-> LeKiwi - Low-Cost Mobile Manipulator | Version 0
+> LeKiwi - Low-Cost Mobile Manipulator | Version 1
 
 ![LeKiwi](./media/lekiwi_cad_v2.png)
 
