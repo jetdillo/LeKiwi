@@ -9,7 +9,8 @@ This page provides a complete list of parts needed to build the LeKiwi mobile ma
 | **Base only (5V)** |  **$291.95**  |  **€294.9**  |
 | **Base only (12V)** |  **$305.45**  |  **€305**  |
 
-> **Note**: prices and items may vary depending on geographic location and time of purchase. If you find links for other countries or cheaper suppliers, please create an issue or PR so that we add them to the list!
+> [!NOTE] 
+> Prices and items may vary depending on geographic location and time of purchase. If you find links for other countries or cheaper suppliers, please create an issue or PR so that we add them to the list!
 
 > [!IMPORTANT]  
 > There are now two options regarding motors and electronics (as also the case with the SO100 arms), either **5V** or **12V**.
