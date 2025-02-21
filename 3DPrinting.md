@@ -8,18 +8,17 @@ We provide ready-to-print STL files for the 3D-printed parts below. These can be
 
 | Item | Quantity | Notes | 
 |:---|:---:|:---:|
-| [Base plate Top]() | 1 | |
-| [Base plate Bottom]() | 1 | |
-| [Drive motor mount]() | 3 | |
-| [Omni wheel mount]() | 3 | <sup>[1](#footnote1)</sup> |
-| [Servo controller mount]() | 1 | |
-| [WaveShare mount plate]() | 1 | |
-| [LiPo battery mount]() | 1 | |
-| [RasPi case Top]() | 1 | <sup>[2](#footnote2)</sup> |
-| [RasPi case Bottom]() | 1 | <sup>[2](#footnote2)</sup> |
-| [Workspace camera mount]() | 1 | |
-| [Wrist camera mount]() | 1 | |
-| [Modified Follower Arm Base]() | 1 | **Optional** |
+| [Base plate Top](/3DPrintMeshes/base_plate_layer2.stl) | 1 | |
+| [Base plate Bottom](/3DPrintMeshes/base_plate_layer1.stl) | 1 | |
+| [Drive motor mount](/3DPrintMeshes/drive_motor_mount.stl) | 3 | |
+| [Omni wheel mount](/3DPrintMeshes/omni_wheel_mount.stl) | 3 | <sup>[1](#footnote1)</sup> |
+| [Servo controller mount](/3DPrintMeshes/servo_controller_mount.stl) | 1 | |
+| [Battery mount](/3DPrintMeshes/battery_mount.stl) | 1 | |
+| [RasPi case Top](/3DPrintMeshes/pi_case_top.stl) | 1 | <sup>[2](#footnote2)</sup> |
+| [RasPi case Bottom](/3DPrintMeshes/pi_case_bottom.stl) | 1 | <sup>[2](#footnote2)</sup> |
+| [Workspace camera mount](/3DPrintMeshes/base_camera_mount.stl) | 1 | |
+| [Wrist camera mount](/3DPrintMeshes/wrist_camera_mount.stl) | 1 | |
+| [Modified Follower Arm Base](/3DPrintMeshes/modified_base_arm.stl) | 1 | **Optional** |
 | [Follower arm](https://github.com/TheRobotStudio/SO-ARM100) | 1 | |
 | [Leader arm](https://github.com/TheRobotStudio/SO-ARM100) | 1 | |
 
