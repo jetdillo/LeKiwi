@@ -33,13 +33,13 @@ With all 3 modules attached to the bottom base plate:
 ### 2. Bottom Plate Assembly
 1. Insert m3 nuts into the mounts for the servo controller and battery mounts. Screw both onto the bottom base plate with 4 m3x12 machine screws.
 
-    <img src="media/assembly_imgs/IMG_1922.jpg" width="400" /> <img src="media/assembly_imgs/IMG_1926.jpg" width="300" />
+    <img src="media/assembly_imgs/IMG_1922.jpg" width="400" /> <img src="media/assembly_imgs/IMG_1926.jpg" width="400" />
 2. Add the servo driver and attach the wires to the 3 drive servos.
 
     <img src="media/assembly_imgs/IMG_1927.jpg" width="400" />
 3. Use the wago lever connectors to connect the ground and power battery wire leads to the leads of the 12v->5v converter and the dc barrel plug adapter. Screw on the 12v to 5v converter to the bottom base plate with 2 m3x16 machine screws and 2 m3 nuts.
 
-    <img src="media/assembly_imgs/IMG_1925.jpg" width="400" /> <img src="media/assembly_imgs/IMG_1928.jpg" width="300" />
+    <img src="media/assembly_imgs/IMG_1925.jpg" width="400" /> <img src="media/assembly_imgs/IMG_1928.jpg" width="400" />
 
 ### 3. Top plate Assembly
 1. Place the raspberry pi 5 into the pi case bottom and snap on the top part of the case. 
@@ -66,6 +66,7 @@ With all 3 modules attached to the bottom base plate:
 
     <img src="media/assembly_imgs/IMG_1935.jpg" width="300" />
 2. Screw the wrist camera mount to the static gripper using 4 m2x5 tap screws(attach the arducam 5MP wide angle camera to the mount with 2 m2.5x12 machine screws)
+
     <img src="media/assembly_imgs/IMG_1934.jpg" width="300" />
 
 ### Plug everything in and its ready!
