@@ -11,7 +11,7 @@ We provide ready-to-print STL files for the 3D-printed parts below. These can be
 | [Base plate Top](/3DPrintMeshes/base_plate_layer2.stl) | 1 | |
 | [Base plate Bottom](/3DPrintMeshes/base_plate_layer1.stl) | 1 | |
 | [Drive motor mount](/3DPrintMeshes/drive_motor_mount.stl) | 3 | |
-| [Servo wheel mount](/3DPrintMeshes/servo_wheel_hub.stl) | 3 | <sup>[1](#footnote1)</sup> |
+| [Servo wheel hub](/3DPrintMeshes/servo_wheel_hub.stl) | 3 | <sup>[1](#footnote1)</sup> |
 | [Servo controller mount](/3DPrintMeshes/servo_controller_mount.stl) | 1 | |
 | [Battery mount](/3DPrintMeshes/battery_mount.stl) | 1 | |
 | [RasPi case Top](/3DPrintMeshes/pi_case_top.stl) | 1 | <sup>[2](#footnote2)</sup> |
