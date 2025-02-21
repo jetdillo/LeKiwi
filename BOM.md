@@ -65,7 +65,7 @@ These parts are the same for both versions:
 ## 5V version :battery:
 
 > [!WARNING]  
-> This powerbank can deliver the needed power but the USB-C cable to DC cable "can't communicate" on it's power needs like USB-C cables normally do ([explaination](https://acroname.com/blog/basics-usb-power-delivery-negotiations?srsltid=AfmBOor4ItX4pxG3kYICo1sf_QQWkkEJafV66F8Jzyo2OdPAJUngfNCn)). This means the USB-C to DC cable outputs 9V with this battery. The FeeTech motors will sometimes consider this "overvoltage" (designed for 7.4V), and start blinking it's led red, and also move in a more shakey way. This can be "solved" by replugging the  DC plug in the motor controller (maybe a couple of times) until the red led stops blinking. If there are people with other powerbanks that work better we would love to hear this and these alternatives, to fix this.
+> This powerbank can deliver the needed power but the USB-C cable to DC cable "can't communicate" on it's power needs like USB-C cables normally do ([explanation](https://acroname.com/blog/basics-usb-power-delivery-negotiations?srsltid=AfmBOor4ItX4pxG3kYICo1sf_QQWkkEJafV66F8Jzyo2OdPAJUngfNCn)). This means the USB-C to DC cable outputs 9V with this battery. The FeeTech motors will sometimes consider this "overvoltage" (designed for 7.4V), and start blinking it's led red, and also move in a more shakey way. This can be "solved" by replugging the  DC plug in the motor controller (maybe a couple of times) until the red led stops blinking. If there are people with other powerbanks that work better we would love to hear this and these alternatives, to fix this.
 
 ### Mobile Base Electronics (5V):
 | Part | Amount | Unit Cost (US) | Buy (US) | Unit Cost (EU) | Buy EU | 
