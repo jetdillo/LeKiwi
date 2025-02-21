@@ -1,45 +1,87 @@
 # Bill of Materials
 
-This page provides a complete list of parts needed to build the LeKiwi mobile manipulator. Our total cost is **$574.33**<sup>[1](#footnote1)</sup>.
+This page provides a complete list of parts needed to build the LeKiwi mobile manipulator. Our total cost is displayed in the table <sup>[1](#footnote1)</sup>.
+
+| Price| VS  | EU  |
+|---------|----:|----:|
+| **12V** |  **$536.23**  |  **€542.56**  |
+| **5V**  |  **$534.95**  |  **€525.9**  |
+| **Base only (5V)** |  **$291.95**  |  **€294.9**  |
+| **Base only (12V)** |  **$305.45**  |  **€305**  |
 
 > **Note**: prices and items may vary depending on geographic location and time of purchase. If you find links for other countries or cheaper suppliers, please create an issue or PR so that we add them to the list!
 
+> [!IMPORTANT]  
+> There are now two options regarding motors and electronics (as also the case with the SO100 arms), either **5V** or **12V**.
 
+These parts are the same for both versions:
 ### Mobile Base Structure:
-| Part | Amount | Unit Cost (US) | Buy (US) | 
-|:---|:---:|:---:|:---|
-| 4" Omni wheels | 3 | $9.99 | [VEX Robotics](https://www.vexrobotics.com/omni-wheels.html?srsltid=AfmBOorWdWT-FIiWSAbicYWSxqYr-d5X3CJSGxMkO33WO0thwlTn4DQu) |
-| M2 M3 M4 Assorted Screw Set | 1 | $14.99 | [Amazon](https://www.amazon.com/Button-Socket-Washers-Assortment-Machine/dp/B0BMQGJP3F?crid=3BV00OKSWG5QC&dib=eyJ2IjoiMSJ9.Sen0Xv-BTF6xjAhC5fq9lJPAHwJfunRcTQVlabXBBpvyomGGhDRb4VmODm-b7q2uSs-vixpW3WswTothajCvCRt0OeLcSVCUmfFZTDrK8UEFq-3cH8yprPOOUhFC9-iXH0arg4JuTSrpnoQ0cVyXiyFjZn5pfJ3LboEPK4-HUH6ED5ZPyNYL3f5sRLoFeLOvkAR-GT-UIn1x2lwSz98am3pVh0h-IZ9tJxF1pSSAk-0.d4TrGGQdxAwqJBZgA2ulWsKEsMxntyqMXP31x6_Yua8&dib_tag=se&keywords=screw%2Bset%2Bm2%2Bm3%2Bm4&qid=1740005319&sprefix=screw%2Bset%2Bm2%2Bm3%2Bm%2Caps%2C170&sr=8-3&th=1) |
-| M3x50mm Standoffs | 1 | $5.99 | [Amazon](https://www.amazon.com/Female-Standoff-Quadcopter-Computer-Circuit/dp/B0CJCH8TWS?crid=S82BFYFIR12P&dib=eyJ2IjoiMSJ9.qgcVOZS3gzWq6i5ghQsZSmBwjIj-CZj03H3RRKH7yo7LPB0zqum5UIxz48bY6hmGfy-AB2biVyFQjXeS50QZk_e_7oj9XAb0G2MKY6dGJhRRLIssQbKhGDcZLXpkQp8HbzBPpxNT-sMCkBfleSfSTn4x4vZihR8-gMK4yn1kuj_krM5xQ3bYm7HTUCSnJ9qN7SokoyKz8iqq29-Ec9d_9lSK2xZZ3AcwKJfpwSs59UE.6Q4v0YQ2Z2Hc4A3AWVsp65TpeDtihgs0B3YKFP4SHMQ&dib_tag=se&keywords=m3x50mm%2Bstandoff%2Bfemale%2Bto%2Bfemale&qid=1740006253&sprefix=m3x50mm%2Bstandoff%2Bfemale%2Bto%2Bfemale%2Caps%2C104&sr=8-3&th=1) |
-| **Total** | | **$50.95** | |
-
-### Mobile Base Electronics:
-| Part | Amount | Unit Cost (US) | Buy (US) | 
-|:---|:---:|:---:|:---|
-| 12v 5a Battery | 1 | $32.99 | [Amazon](https://www.amazon.com/KBT-Rechargeable-Connector-Replacement-Security/dp/B0C242DYT1/ref=sr_1_2_sspa?crid=12BGULVAZ8MDV&dib=eyJ2IjoiMSJ9.ctlCeqlIhw9OOFTxoh3o0c0e9t3QiObeBM7hfDN2vBY4n1OXdjVJWY6M8NpBunLtdSwxsM_KHeD80KBn7nziUYfMw_CmQHc3pW7lx6f0LdTQRdVYhmv806Re285Hix4tEp6EBmMz3KJ1fG9nx-8pKw6mRVHoG6n9WcXiBkDMkzb3zDIWiwVCGXuu5n_ObAeA3vuUCEDMxY-iK0zxVgi9AK1GNaPPnKO0pl2K0CK_joT_kRvmoUCe-5YWGEiB0OC4toBWbQ-zeahBQ1hYiac2vxNb-hks6519l3UgwspsVec.-Dj8MPVJfw9S-ioXjhH7MW9GIhJKoaikZUh_7fim95c&dib_tag=se&keywords=12v%2B5a%2Blipo%2Bwith%2Bdc&qid=1734979294&s=electronics&sprefix=12v%2B5a%2Blipo%2Bwith%2Bdc%2Celectronics%2C140&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) |
-| Lever Wire Connector | 1 | $6.70 | [Amazon](https://www.amazon.com/Wago-221-413-LEVER-NUTS-Conductor-Connectors/dp/B06XGYXVXR/ref=sr_1_4?dib=eyJ2IjoiMSJ9.fOT52WXrJLuURppThW6TYzvQ0FG_CuEvZvC2pUUOtRyUAibO90u1m-aSUIdhTi0OYiyxmc7TojQqT-SeaiF40fZgXD81A3aglO3jSwvPGdei602Tcso-qQftKZaLPNA8e3HmegZlp2rDGrWWJYla4M1GzLU8l3ze5PRFTJRvQLvcrMrL1-xoHvoVICOnKVYMIo223UT0nZTxzLj05G-XIvADjSnhZQQWO1sUrmheTXU.PCLRVwmLfQDDlzgIC88_wSK1f3OtVDE9IWEtooUReGM&dib_tag=se&keywords=wago%2B3%2Bport&qid=1734978387&sr=8-4&th=1) |
-| 12v 5a DC plug connector | 1 | $9.49 | [Amazon](https://www.amazon.com/43x2pcs-Connectors-Security-Lighting-MILAPEAK/dp/B072BXB2Y8/ref=sr_1_11?crid=F8DVHD96FSB8&dib=eyJ2IjoiMSJ9.Vg1XhpK_QTBXckXNYVzjxhECJJT-Vyadz9qsheDZCLH9W_Skje8DNP5sgHyn9nJfOkTuPHPGdHdFffAKBLh1stFJNPhTl691RIhyZV8Xdb69PwWxAa6kg6GIuc4kluXWSL7PgJqGOeyAIoFejMhGOmIzvOq7e_aeqSEhN4nrvIJwUiwEugEen9Fcsu7ZwHsn2CjTxMNre5hKfzoTbcJuWvl8_hb4DzZ-Catvv-84QKCnlrvzv3DXKAcYCFg5IypKpsS9G095LfVB7fSol4wP8eMMy4QIvLUWDAcCgrOrOA2OhqVCuruXCA8TzpK3PpfuDx05Od-RkkUeAF6yauhDRBjA5G2f8qjPWBLERWSGgjg.4herHTa8-F0hxdQdf4ulaOyttNlKyvEnSQIeMpnGvQ0&dib_tag=se&keywords=16+awg+leads+to+dc+short&qid=1734979609&s=electronics&sprefix=16+awg+leads+to+dc+short%2Celectronics%2C146&sr=1-11) |
-| 12v to 5v 5a USB-C converter | 1 | $9.99 | [Amazon](https://www.amazon.com/Klnuoxj-Converter-Interface-Waterproof-Compatible/dp/B0CRVW7N2J?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A1QRG6NHEUKUZO&gQT=0&th=1) |
-| 12v ST3215 Feetech Servo | 3 | $17.61 | [Alibaba](https://www.alibaba.com/product-detail/6PCS-12V-30KG-STS3215-High-Torque_1601216757543.html?spm=a2700.details.you_may_like.1.5d7322cbznWx4D) |
-| **Total** | | **$112.00** | |
-
+| Part | Amount | Unit Cost (US) | Buy (US) | Unit Cost (EU) | Buy (EU) |
+| - | - | - | - | - | - |
+| 4" Omni wheels | 3 | $9.99 | [VEX Robotics](https://www.vexrobotics.com/omni-wheels.html?srsltid=AfmBOorWdWT-FIiWSAbicYWSxqYr-d5X3CJSGxMkO33WO0thwlTn4DQu) | €24.5 | [RobotShop](https://eu.robotshop.com/products/100mm-omnidirectional-wheel-brass-bearing-rollers) |
+| M2 M3 M4 Assorted Screw Set | 1 | $14.99 | [Amazon](https://www.amazon.com/Button-Socket-Washers-Assortment-Machine/dp/B0BMQGJP3F) | €23.5 | [Amazon](https://www.amazon.fr/Cylindrique-Inoxydable-M2-Socket-Assortiment/dp/B09Y8WYFWD/) |
+| M3x50mm Standoffs | 1 | $5.99  | [Amazon](https://www.amazon.com/Female-Standoff-Quadcopter-Computer-Circuit/dp/B0CJCH8TWS) | €10.3 | [Amazon](https://www.amazon.fr/LON0167-Filetage-entretoise-Innengewinde-Standoff/dp/B09FF1ZBHW/) |
+| **Total** || **$50.95** || **€107.3** ||
 
 ### Sensors and Compute:
-| Part | Amount | Unit Cost (US) | Buy (US) | 
-|:---|:---:|:---:|:---|
-| Raspberry Pi 5 | 1 | $80.00 | [Adafruit](https://www.adafruit.com/product/5813?src=raspberrypi) |
-| USB camera | 2 | $31.99 | [Amazon](https://www.amazon.com/Arducam-Camera-Computer-Without-Microphone/dp/B0972KK7BC/ref=sr_1_4?crid=29C5SZF36R81Y&dib=eyJ2IjoiMSJ9.bWmo43qIw1ooXqzDAWhsaHOsUgP_qnyhYz2WKoTGRn6qB0u51IXmvgFmcHI6eZHnsm65fNE3UGaRTNdRzm_TQClXeyZNUMUMI-Dq_CeeeSd_JUdcQuV9eClKOMxrivZ9eer2rWYqs2KrZ79IiQhF3il9fIxJO7N1FAOWvxrrd0Kkc-5cBrunnOXYTvNyHnIrKfZkqCmNi6q4mMxfmJM6ImgavbdV_atCjg51L0dzfJU.dMOsZkqOUWqPT3luV-go9s_lWP7dQrFZTj2gBRT0PAQ&dib_tag=se&keywords=arducam+usb&qid=1734986642&sprefix=arducam+us%2Caps%2C212&sr=8-4) |
-| microSD card | 1 | $21.99 | [Amazon](https://a.co/d/b07pO8v) |
-| **Total** | | **$165.97** | |
 
-### SO-100 2 Robot Arm Teleoperation Set:
-| Part | Amount | Unit Cost (US) | Buy (US) | 
-|:---|:---:|:---:|:---|
-| 12v ST3215 Feetech Servo | 12 | $17.61 | [Alibaba](https://www.alibaba.com/product-detail/6PCS-12V-30KG-STS3215-High-Torque_1601216757543.html?spm=a2700.details.you_may_like.1.5d7322cbznWx4D) |
-| Serial Bus Servo Controller | 2 | $10.55 | [Amazon](https://www.amazon.com/Waveshare-Integrates-Control-Circuit-Supports/dp/B0CTMM4LWK/ref=sr_1_5?crid=1DQJCEEE215LP&dib=eyJ2IjoiMSJ9.gY47WLA3iZcGpEIethhA2B7DZV9DTXiR0x26sSsooS_4k9VNWxjPOctEHfIRwiGhqHG8eBT624Xf06RIlWE47sfB5KtFa5NZmtf-u0aKYnjULtxPKoTpmYt6Lj-L7eH7mR2Kuog5eP11btxWLKU-8n6ME7CXqMLpnbOc1wtgglx40tW0TYMsMrbojOn-VXPujIYMixN7mWcCSxHg3JU9C9EeYm_fcJ_dF10j4uW3Sec.RWBAd63wJrpVUIRm_97ACdd5wW4TYulH6p9_V1g4ApA&dib_tag=se&keywords=waveshare+servo+bus+board&qid=1734981387&sprefix=waveshare+servo+bus+boar%2Caps%2C182&sr=8-5) |
-| Screwdriver Set | 1 | $6.00 | [Amazon](https://www.amazon.com/Precision-Phillips-Screwdriver-Electronics-Computer/dp/B0DB227RTH) |
-| USB-C Cable 2pcs | 1 | $6.99 | [Amazon](https://www.amazon.com/Charging-etguuds-Charger-Braided-Compatible/dp/B0B8NWLLW2/?th=1) |
-| **Total** | | **$245.41** | |
+| Part| Amount | Unit Cost (US) | Buy (US) | Unit Cost (EU) | Buy (EU) |
+|--|:-:|:-:|-|:-:|-|
+| Raspberry Pi 5 (4GB)| 1 |$60.00| [Adafruit](https://www.adafruit.com/product/5812)| €57.00| [Mouser](https://eu.mouser.com/ProductDetail/Raspberry-Pi/SC1111?qs=HoCaDK9Nz5fnLhlMNnKTiQ%3D%3D)|
+| USB camera | 2 | $31.99 | [Amazon](https://www.amazon.com/Arducam-Camera-Computer-Without-Microphone/dp/B0972KK7BC) | €12.00 | [Amazon](https://www.amazon.fr/Vinmooog-equipement-Microphone-Enregistrement-conf%C3%A9rences/dp/B0BG1YJWFN/) |
+| microSD card | 1 | $21.99 | [Amazon](https://a.co/d/b07pO8v) | €10.00 | [Amazon](https://www.amazon.fr/Lexar-Carte-Micro-adaptateur-Smartphone/dp/B08XZ2KS1F)|
+| **Total** ||  **$146**  ||  **€91** ||
+
+### Other
+| Part| Amount | Unit Cost (US) | Buy (US) | Unit Cost (EU) | Buy (EU) |
+|--|:-:|:-:|-|:-:|-|
+| Table Clamp 4pcs | 1 | $18 | [Amazon](https://www.amazon.com/WORKPRO-Clamps-Woodworking-One-Handed-Spreader/dp/B0CQYDJWS8/) | € 21 | [Amazon](https://www.amazon.fr/dp/B08HW9VFM8/)| 
+| Screwdriver Set | 1 | $6 | [Amazon](https://www.amazon.com/Precision-Phillips-Screwdriver-Electronics-Computer/dp/B0DB227RTH) | €10 | [Amazon](https://www.amazon.fr/dp/B08ZXVMVYD/) | 
+| USB-C to USB-A Cable 2 pcs | 1 | $7 | [Amazon](https://www.amazon.com/Charging-etguuds-Charger-Braided-Compatible/dp/B0B8NWLLW2/?th=1) | €7 | [Amazon](https://www.amazon.fr/dp/B07BNF842T/) |
+| **Total** ||  **$31**  ||  **€38** ||
+
+## 12V version :battery:
+
+### Mobile Base Electronics (12V):
+| Part | Amount | Unit Cost (US) | Buy (US) | Unit Cost (EU) | Buy (EU) |
+|:---|:---:|:---:|:---|:---:|---:|
+| 12v 5a Battery | 1 | $32.99 | [Amazon](https://www.amazon.com/KBT-Rechargeable-Connector-Replacement-Security/dp/B0C242DYT1/ref=sr_1_2_sspa?) | €32.99 | [Amazon](https://www.amazon.fr/NASTIMA-lithium-ion-Rechargeable-Caméscopes-électronique/dp/B09FK4ZDSL) |
+| Lever Wire Connector | 1 | $6.70 | [Amazon](https://www.amazon.com/Wago-221-413-LEVER-NUTS-Conductor-Connectors/dp/B06XGYXVXR/ref=sr_1_4) | €7.18 | [Amazon](https://www.amazon.fr/221-413-fil-électrique-connecteur-220-240-Terminal/dp/B01AKF3I58) |
+| 12v 5a DC plug connector | 1 | $9.49 | [Amazon](https://www.amazon.com/43x2pcs-Connectors-Security-Lighting-MILAPEAK/dp/B072BXB2Y8/ref=sr_1_11) | €8.99 | [Amazon](https://www.amazon.fr/RUNCCI-YUN-Alimentation-dalimentation-Connecteur-Surveiller/dp/B0CX44HTKZ) |
+| 12v to 5v 5a USB-C converter | 1 | $9.99 | [Amazon](https://www.amazon.com/Klnuoxj-Converter-Interface-Waterproof-Compatible/dp/B0CRVW7N2J?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A1QRG6NHEUKUZO&gQT=0&th=1) | €9.99 | [Amazon](https://www.amazon.fr/Greluma-convertisseur-Adaptateur-dalimentation-Compatible/dp/B0D7VDL2X6) |
+| 12v ST3215 Feetech Servo | 3 | $16.45 | [Alibaba](https://www.alibaba.com/product-detail/12V-30KG-STS3215-High-Torque-Intelligent_1601251263977.html) | €15.85 | [Alibaba](https://www.alibaba.com/product-detail/12V-30KG-STS3215-High-Torque-Intelligent_1601251263977.html) |
+| **Total** | | **$108.5** | | **€106.7** | |
+
+
+### SO-100 2 Robot Arm Teleoperation Set (12V):
+| Part | Amount | Unit Cost (US) | Buy (US) | Unit Cost (EU) | Buy (EU) |
+|:---|:---:|:---:|:---|:---:|---:|
+| 12v ST3215 Servo | 12 | $13.89 | [Alibaba](https://www.alibaba.com/product-detail/Feetech-STS3215-SO-ARM100-Servo-12V_1601292634404.html?spm=a2700.details.you_may_like.3.5ab1478e45kY42) | €13.38 | [Alibaba](https://www.alibaba.com/product-detail/Feetech-STS3215-SO-ARM100-Servo-12V_1601292634404.html?spm=a2700.details.you_may_like.3.5ab1478e45kY42) |
+| Motor Control Board | 2 | $10.55 | [Amazon](https://www.amazon.com/Waveshare-Integrates-Control-Circuit-Supports/dp/B0CTMM4LWK/) | €12.00 | [Amazon](https://www.amazon.fr/Waveshare-Integrates-Control-Applicable-Integrate/dp/B0CJ6TP3TP) |
+| Power Supply | 1 | $12 | [Amazon](https://www.amazon.com/ALITOVE-Adapter-Converter-100-240V-5-5x2-1mm/dp/B01GEA8PQA) | €15 | [Amazon](https://www.amazon.fr/LEDMO-Alimentation-Adaptateur-Transformateurs-Chargeur/dp/B07PGLXK4X) | 
+| **Total** | | **$199.78** | | **€199.56** | |
+
+## 5V version :battery:
+
+> [!WARNING]  
+> This powerbank can deliver the needed power but the USB-C cable to DC cable "can't communicate" on it's power needs like USB-C cables normally do ([explaination](https://acroname.com/blog/basics-usb-power-delivery-negotiations?srsltid=AfmBOor4ItX4pxG3kYICo1sf_QQWkkEJafV66F8Jzyo2OdPAJUngfNCn)). This means the USB-C to DC cable outputs 9V with this battery. The FeeTech motors will sometimes consider this "overvoltage" (designed for 7.4V), and start blinking it's led red, and also move in a more shakey way. This can be "solved" by replugging the  DC plug in the motor controller (maybe a couple of times) until the red led stops blinking. If there are people with other powerbanks that work better we would love to hear this and these alternatives, to fix this.
+
+### Mobile Base Electronics (5V):
+| Part | Amount | Unit Cost (US) | Buy (US) | Unit Cost (EU) | Buy EU | 
+|:---|:---:|:---:|:---:|:---:|:---|
+| 20000maH 85W Power Bank | 1 | $42 | [Amazon](https://www.amazon.com/CUKTECH-20000mAh-Portable-Charging-External/dp/B0D3PMWN46/) | €50 | [Amazon](https://www.amazon.fr/CUKTECH-Batterie-Affichage-Numérique-Compatible/dp/B0D3PMWN46/) |
+| STS3215 Servo | 3 | $15 | [Alibaba](https://www.alibaba.com/product-detail/6PCS-7-4V-STS3215-Servos-for_1600523509006.html) | 13€ | [Alibaba](https://www.alibaba.com/product-detail/6PCS-7-4V-STS3215-Servos-for_1600523509006.html) | 
+| USB-C Cable 2pcs (1feet/0.5 m) | 1 | $8 | [Amazon](https://www.amazon.com/INIU-2-Pack-iPhone-Samsung-MacBook/dp/B0D8QBHZSW/) | €7.6 | [Amazon](https://www.amazon.fr/SUNGUY-charge-rapide-MacBook-Samsung/dp/B0DNM89Q5P) |
+| **Total** | | **$95** | | **€96.6** | |
+
+
+### SO-100 2 Robot Arm Teleoperation Set (5V):
+| Part | Amount | Unit Cost (US) | Buy US | Unit Cost (EU) | Buy EU | 
+|---|---|---|---|---|---|
+| STS3215 Servo | 12 | $15 | [Alibaba](https://www.alibaba.com/product-detail/6PCS-7-4V-STS3215-Servos-for_1600523509006.html) | €13 | [Alibaba](https://www.alibaba.com/product-detail/6PCS-7-4V-STS3215-Servos-for_1600523509006.html) | 
+| Motor Control Board | 2 | $11 | [Amazon](https://www.amazon.com/Waveshare-Integrates-Control-Circuit-Supports/dp/B0CTMM4LWK/) | €12 | [Amazon](https://www.amazon.fr/-/en/dp/B0CJ6TP3TP/)| €7 | [Amazon](https://www.amazon.fr/dp/B07BNF842T/) | 
+| Power Supply | 1 | $10 | [Amazon](https://www.amazon.com/Facmogu-Switching-Transformer-Compatible-5-5x2-1mm/dp/B087LY41PV/) | €13 | [Amazon](https://www.amazon.fr/-/en/dp/B01HRR9GY4/) | 
+| **Total** | | **$212** | | **€193** | |
 
 
 > Head to [3D Printing](3DPrinting.md) for the next step!
