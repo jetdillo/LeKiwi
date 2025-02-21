@@ -2,12 +2,13 @@
 > **Estimated time:** 2 hours
 
 *Exact component placements can be visualized in the [Fusion360 Online CAD](https://a360.co/4k1P8yO)*
+
 *We assume you already have a [SO-100 Arm](https://github.com/TheRobotStudio/SO-ARM100) built*
 ### 1. Assemble Wheel Modules (3 per robot)
 
 1. Insert m3 nuts into the hex slots on the drive motor mount.
 
-    <img src="media/assembly_imgs/IMG_1913.jpg" width="300" />
+    <img src="media/assembly_imgs/IMG_1913.jpg" width="150" />
 
 2. Attach a feetech motor to the drive motor mount using 4 m2x5 tap screws. Also use 1 m3x6 machine screw to secure the servo horn to the motor.
 
@@ -27,7 +28,7 @@
 
 With all 3 modules attached to the bottom base plate:
 
- <img src="media/assembly_imgs/IMG_1920.jpg" width="300" />  <img src="media/assembly_imgs/IMG_1921.jpg" width="300" />
+<img src="media/assembly_imgs/IMG_1920.jpg" width="400" />  <img src="media/assembly_imgs/IMG_1921.jpg" width="400" />
 
 ### 2. Bottom Plate Assembly
 1. Insert m3 nuts into the mounts for the servo controller and battery mounts. Screw both onto the bottom base plate with 4 m3x12 machine screws.

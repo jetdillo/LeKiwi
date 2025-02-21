@@ -1,7 +1,7 @@
 # LeKiwi
 > LeKiwi - Low-Cost Mobile Manipulator | Version 1
 
-<img src="./media/lekiwi_cad_v2.png" width=300/> <img src="./media/lekiwi_real.jpg" width=300/> 
+<img src="./media/lekiwi_cad_v1.png" width=300/> <img src="./media/lekiwi_real.jpg" width=300/> 
 
 ## Quick Links
 1. [Bill of Materials](BOM.md)
