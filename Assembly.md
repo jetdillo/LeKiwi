@@ -33,24 +33,24 @@ With all 3 modules attached to the bottom base plate:
 ### 2. Bottom Plate Assembly
 1. Insert m3 nuts into the mounts for the servo controller and battery mounts. Screw both onto the bottom base plate with 4 m3x12 machine screws.
 
-    <img src="media/assembly_imgs/IMG_1922.jpg" width="300" /> <img src="media/assembly_imgs/IMG_1926.jpg" width="300" />
+    <img src="media/assembly_imgs/IMG_1922.jpg" width="400" /> <img src="media/assembly_imgs/IMG_1926.jpg" width="300" />
 2. Add the servo driver and attach the wires to the 3 drive servos.
 
-    <img src="media/assembly_imgs/IMG_1927.jpg" width="300" />
+    <img src="media/assembly_imgs/IMG_1927.jpg" width="400" />
 3. Use the wago lever connectors to connect the ground and power battery wire leads to the leads of the 12v->5v converter and the dc barrel plug adapter. Screw on the 12v to 5v converter to the bottom base plate with 2 m3x16 machine screws and 2 m3 nuts.
 
-    <img src="media/assembly_imgs/IMG_1925.jpg" width="300" /> <img src="media/assembly_imgs/IMG_1928.jpg" width="300" />
+    <img src="media/assembly_imgs/IMG_1925.jpg" width="400" /> <img src="media/assembly_imgs/IMG_1928.jpg" width="300" />
 
 ### 3. Top plate Assembly
 1. Place the raspberry pi 5 into the pi case bottom and snap on the top part of the case. 
 2. Attach the Pi to the top base plate using 1 m3x12 machine screw(the second screw will be placed in with the standoffs) and mount the SO-100 arm with 4 m3x20 machine screws. Using our modified SO-100 base or the original will work as there are holes for both in the plate.
 
-    <img src="media/assembly_imgs/IMG_1929.jpg" width="300" />
+    <img src="media/assembly_imgs/IMG_1929.jpg" width="400" />
 
 ### 4. Final Assembly
 1. Attach 6 50mm standoffs to the bottom base plate with 6 m3x10 screws
 
-    <img src="media/assembly_imgs/IMG_1936.jpg" width="300" />
+    <img src="media/assembly_imgs/IMG_1936.jpg" width="400" />
 
 2. Feed the servo controller usb-c to usb-a, 5v usb-c power, and so-100 servo wires through the hole in the top base plate. 
 
@@ -58,7 +58,7 @@ With all 3 modules attached to the bottom base plate:
 
 3. Mount the top base plate onto the standoffs with 6 m3x10 screws.
 
-    <img src="media/assembly_imgs/IMG_1933.jpg" width="300" />
+    <img src="media/assembly_imgs/IMG_1933.jpg" width="400" />
 
 ### 5. Attach Cameras
 *Note: The mounts we designed are specific to the cameras we chose. They may need to be modified for different camera modules.*
@@ -70,4 +70,4 @@ With all 3 modules attached to the bottom base plate:
 
 ### Plug everything in and its ready!
 Power the electronics by plugging in the DC barrel plug adapter to the servo motor controller and the 5v usb-c connector to the raspberry pi 5. The usb cables from the servo controller and the cameras can directly be plugged in to the raspberry pi.
-<img src="media/assembly_imgs/IMG_1940.jpg" width="300" /> <img src="media/assembly_imgs/IMG_1938.jpg" width="300" />
+<img src="media/assembly_imgs/IMG_1940.jpg" width="400" /> <img src="media/assembly_imgs/IMG_1938.jpg" width="400" />
