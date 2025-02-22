@@ -37,11 +37,12 @@ With all 3 modules attached to the bottom base plate:
 2. Add the servo driver and attach the wires to the 3 drive servos.
 
     <img src="media/assembly_imgs/IMG_1927.jpg" width="400" />
-3. Use the wago lever connectors to connect the ground and power battery wire leads to the leads of the 12v->5v converter and the dc barrel plug adapter. Screw on the 12v to 5v converter to the bottom base plate with 2 m3x16 machine screws and 2 m3 nuts.
+3. Wiring Electronics
+   - For the **12V version**: 
+   Use the wago lever connectors to connect the ground and power battery wire leads to the leads of the 12v->5v converter and the dc barrel plug adapter. Screw on the 12v to 5v converter to the bottom base plate with 2 m3x16 machine screws and 2 m3 nuts.
+        <img src="media/assembly_imgs/IMG_1925.jpg" width="400" /> <img src="media/assembly_imgs/IMG_1928.jpg" width="400" />
 
-    <img src="media/assembly_imgs/IMG_1925.jpg" width="400" /> <img src="media/assembly_imgs/IMG_1928.jpg" width="400" />
-
-    For the **5V version** you can use the powerbamk holder to keep the powerbank in place `3DPrintMeshes/5v_specific/5v_power_bank_holder.stl`. The powerbank can be mounted in the back on the lower plate.
+    - For the **5V version**: you can use the powerbamk holder to keep the powerbank in place `3DPrintMeshes/5v_specific/5v_power_bank_holder.stl`. The powerbank can be mounted in the back on the lower plate.
 
     <img src="media/assembly_imgs/IMG_7.jpg" width="400" />
 
@@ -64,8 +65,10 @@ With all 3 modules attached to the bottom base plate:
 
     <img src="media/assembly_imgs/IMG_1933.jpg" width="400" />
 
-### 5A: Attach Cameras
+### 5: Attach Cameras
 *Note: The mounts we designed are specific to the cameras we chose. They may need to be modified for different camera modules.*
+#### (Option 1) Mounting Arducam
+For these [camera's](https://www.amazon.com/Arducam-Camera-Computer-Without-Microphone/dp/B0972KK7BC) you can print these parts 1x `3DPrintMeshes/base_camera_mount.stl` and 1x `3DPrintMeshes/wrist_camera_mount.stl`.
 1. Screw the base camera mount onto the bottom base plate(attach the arducam 5MP wide angle camera to the mount with 2 m2.5x12 machine screws). The cable for the camera mount can also be fed through the cutout
 
     <img src="media/assembly_imgs/IMG_1935.jpg" width="300" />
@@ -73,7 +76,7 @@ With all 3 modules attached to the bottom base plate:
 
     <img src="media/assembly_imgs/IMG_1934.jpg" width="300" />
 
-### 5B: Attach Cameras
+#### (Option 2) Mounting Webcam
 For these [camera's](https://www.amazon.fr/Vinmooog-equipement-Microphone-Enregistrement-conférences/dp/B0BG1YJWFN/) you can print these parts 1x `3DPrintMeshes/webcam_mount/webcam_mount.stl`, 1x `3DPrintMeshes/webcam_mount/so100_gripper_cam_mount_insert.stl` and 1x `3DPrintMeshes/webcam_mount/webcam_mount_wrist.stl`. These can be used to attach a wrist and base camera to LeKiwi.
 
 1. Print the new gripper with insert for the M3 nut, and insert the nut. Then insert the motor and attach gripper. 

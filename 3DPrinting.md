@@ -13,11 +13,11 @@ We provide ready-to-print STL files for the 3D-printed parts below. These can be
 | [Drive motor mount](/3DPrintMeshes/drive_motor_mount.stl) | 3 | |
 | [Servo wheel hub](/3DPrintMeshes/servo_wheel_hub.stl) | 3 | <sup>[1](#footnote1)</sup> |
 | [Servo controller mount](/3DPrintMeshes/servo_controller_mount.stl) | 1 | |
-| [Battery mount](/3DPrintMeshes/battery_mount.stl) | 1 | |
+| [12v Battery mount](/3DPrintMeshes/battery_mount.stl) **or** [5v Battery mount](/3DPrintMeshes/5v_specific/5v_power_bank_holder.stl)| 1 | |
 | [RasPi case Top](/3DPrintMeshes/pi_case_top.stl) | 1 | <sup>[2](#footnote2)</sup> |
 | [RasPi case Bottom](/3DPrintMeshes/pi_case_bottom.stl) | 1 | <sup>[2](#footnote2)</sup> |
-| [Workspace camera mount](/3DPrintMeshes/base_camera_mount.stl) | 1 | |
-| [Wrist camera mount](/3DPrintMeshes/wrist_camera_mount.stl) | 1 | |
+| Arducam [base mount](/3DPrintMeshes/base_camera_mount.stl) and [Wrist mount](/3DPrintMeshes/wrist_camera_mount.stl)| 1 | **Compatible with [this camera](https://www.amazon.com/Arducam-Camera-Computer-Without-Microphone/dp/B0972KK7BC)** |
+| Webcam [base mount](3DPrintMeshes/webcam_mount/webcam_mount.stl), [gripper insert](3DPrintMeshes/webcam_mount/so100_gripper_cam_mount_insert.stl), and [wrist mount](3DPrintMeshes/webcam_mount/webcam_mount_wrist.stl) | 1 | **Compatible with [this camera](https://www.amazon.fr/Vinmooog-equipement-Microphone-Enregistrement-conférences/dp/B0BG1YJWFN/)** |
 | [Modified Follower Arm Base](/3DPrintMeshes/modified_base_arm.stl) | 1 | **Optional** |
 | [Follower arm](https://github.com/TheRobotStudio/SO-ARM100) | 1 | |
 | [Leader arm](https://github.com/TheRobotStudio/SO-ARM100) | 1 | |
@@ -51,8 +51,8 @@ Assuming you already have access to a 3D printer<sup>[3](#footnote3)</sup>, foll
 > For tutorials on how to assemble the robot, checkout the [Assembly](Assembly.md) page!
 
 ## Footnotes
-<a name="footnote1">1</a>: Modified from VEX design
+<a name="footnote1">1</a>: Modified from [VEX VersaHub model](https://www.vexrobotics.com/versahubs.html?srsltid=AfmBOooDKLcAfkuEgHyrjk24WFDrLTP4TQWkGjEpC-9HcyaMMCUMDSzs)
 
-<a name="footnote2">2</a>: Taken from [Micro Center design](https://www.printables.com/model/605060-raspberry-pi-5-case-wpower-button-v2)
+<a name="footnote2">2</a>: Modified from [Micro Center model](https://www.printables.com/model/605060-raspberry-pi-5-case-wpower-button-v2)
 
 <a name="footnote3">3</a>: If not, we recommend [Bambu Lab](https://bambulab.com/en-us) or [Prusa](https://www.prusa3d.com/), or checkout this [list of brands](https://github.com/ad-si/awesome-3d-printing?tab=readme-ov-file#3d-printer-brands).

@@ -11,11 +11,11 @@
 
 ## Hardware Design
 #### Standardized Stacked Base Plates
-- Inspired by the [open robotic platform](https://openroboticplatform.com/designrules), our base plates have with 3.5mm diameter holes spaced 20mm apart for standardized mounting
+- Inspired by the [open robotic platform](https://openroboticplatform.com/designrules), our base plates have 3.5mm diameter holes spaced 20mm apart for standardized mounting
 
 #### Power
-- 12V 5A LiPo battery to power 12V ST3215 motors and converted to 5V 5A for the Rasberry Pi 5
-
+- (12V version) 12v 5A Li-ion battery
+- (5V version) 65W Laptop power bank
 #### Compute
 - Raspberry Pi 5
 - Streaming to a Laptop
@@ -27,8 +27,8 @@
 - [SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100)
 
 #### Sensors
-- Workspace camera
-- Wrist camera
+- Workspace rgb camera
+- Wrist rgb camera
 
 ## Software Capabilities
 Goals:

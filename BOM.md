@@ -4,10 +4,10 @@ This page provides a complete list of parts needed to build the LeKiwi mobile ma
 
 | Price| VS  | EU  |
 |---------|----:|----:|
-| **12V** |  **$536.23**  |  **€542.56**  |
+| **12V** |  **$498.21**  |  **€542.56**  |
 | **5V**  |  **$534.95**  |  **€525.9**  |
 | **Base only (5V)** |  **$291.95**  |  **€294.9**  |
-| **Base only (12V)** |  **$305.45**  |  **€305**  |
+| **Base only (12V)** |  **$267.43**  |  **€305**  |
 
 > [!NOTE] 
 > Prices and items may vary depending on geographic location and time of purchase. If you find links for other countries or cheaper suppliers, please create an issue or PR so that we add them to the list!
@@ -29,9 +29,10 @@ These parts are the same for both versions:
 | Part| Amount | Unit Cost (US) | Buy (US) | Unit Cost (EU) | Buy (EU) |
 |--|:-:|:-:|-|:-:|-|
 | Raspberry Pi 5 (4GB)| 1 |$60.00| [Adafruit](https://www.adafruit.com/product/5812)| €57.00| [Mouser](https://eu.mouser.com/ProductDetail/Raspberry-Pi/SC1111?qs=HoCaDK9Nz5fnLhlMNnKTiQ%3D%3D)|
-| USB camera | 2 | $31.99 | [Amazon](https://www.amazon.com/Arducam-Camera-Computer-Without-Microphone/dp/B0972KK7BC) | €12.00 | [Amazon](https://www.amazon.fr/Vinmooog-equipement-Microphone-Enregistrement-conf%C3%A9rences/dp/B0BG1YJWFN/) |
+| USB camera<sup>[2](#footnote2)</sup> | 2 | $12.98 | [Amazon](https://a.co/d/236G8Wn) | €12.00 | [Amazon](https://www.amazon.fr/Vinmooog-equipement-Microphone-Enregistrement-conf%C3%A9rences/dp/B0BG1YJWFN/) |
 | microSD card | 1 | $21.99 | [Amazon](https://a.co/d/b07pO8v) | €10.00 | [Amazon](https://www.amazon.fr/Lexar-Carte-Micro-adaptateur-Smartphone/dp/B08XZ2KS1F)|
-| **Total** ||  **$146**  ||  **€91** ||
+| **Total** ||  **$108**  ||  **€91** ||
+
 
 ### Other
 | Part| Amount | Unit Cost (US) | Buy (US) | Unit Cost (EU) | Buy (EU) |
@@ -91,3 +92,5 @@ These parts are the same for both versions:
 
 ## Footnotes
 <a name="footnote1">1</a>: Doesn't include cost of 3D printing
+
+<a name="footnote2">2</a>: Another supported camera option is the Arducam 5MP Wide Angle found [here](https://www.amazon.com/Arducam-Camera-Computer-Without-Microphone/dp/B0972KK7BC)
