@@ -2,7 +2,7 @@
 
 This page provides a complete list of parts needed to build the LeKiwi mobile manipulator. Our total cost is displayed in the table <sup>[1](#footnote1)</sup>.
 
-| Price| VS  | EU  |
+| Price| US  | EU  |
 |---------|----:|----:|
 | **12V** |  **$498.21**  |  **€542.56**  |
 | **5V**  |  **$534.95**  |  **€525.9**  |
