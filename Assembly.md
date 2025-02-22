@@ -74,23 +74,22 @@ With all 3 modules attached to the bottom base plate:
     <img src="media/assembly_imgs/IMG_1934.jpg" width="300" />
 
 ### 5B: Attach Cameras
-For these [camera's](https://www.amazon.fr/Vinmooog-equipement-Microphone-Enregistrement-conférences/dp/B0BG1YJWFN/) you can print these parts 2x `3DPrintMeshes/webcam_mount/webcam_mount.stl` and 1x `3DPrintMeshes/webcam_mount/so_100_gripper_with_cam_mount.stl`. These can be used to attach a wrist and base camera to LeKiwi.
+For these [camera's](https://www.amazon.fr/Vinmooog-equipement-Microphone-Enregistrement-conférences/dp/B0BG1YJWFN/) you can print these parts 1x `3DPrintMeshes/webcam_mount/webcam_mount.stl`, 1x `3DPrintMeshes/webcam_mount/so100_gripper_cam_mount_insert.stl` and 1x `3DPrintMeshes/webcam_mount/webcam_mount_wrist.stl`. These can be used to attach a wrist and base camera to LeKiwi.
 
 1. Print the new gripper with insert for the M3 nut, and insert the nut. Then insert the motor and attach gripper. 
 
     <img src="media/assembly_imgs/IMG_1.jpg" width="300" />
-2. Now take the camera mount, add two washers for spacing and add a M3x8mm bolt and screw it firmly until it locks with the M3 nut in the gripper. Then insert your camera in the mount and add 2x M3x30mm (preferablly 35mm) in the back holes to lock the camera in place.
+2. Now take the camera mount `3DPrintMeshes/webcam_mount/webcam_mount_wrist.stl`, and add a M3x12mm bolt and screw it firmly until it locks with the M3 nut in the gripper. Then insert your camera in the mount and add 2x M3x35mm bolts in the back holes to lock the camera in place, use 2 nuts that you insert in the slots to lock the bolts.
 
-    <img src="media/assembly_imgs/IMG_2.jpg" width="200" />
-    <img src="media/assembly_imgs/IMG_3.jpg" width="200" />
-    <img src="media/assembly_imgs/IMG_4.jpg" width="200" />
-    <img src="media/assembly_imgs/IMG_5.jpg" width="200" />
+    <img src="media/assembly_imgs/IMG_9.jpg" width="200" />
+    <img src="media/assembly_imgs/IMG_10.jpg" width="200" />
 
-3. Do the same for the base camera and attach it to the front of LeKiwi.
+3. Do the same for the base camera `3DPrintMeshes/webcam_mount/webcam_mount.stl` and attach it to the front of LeKiwi.
 
     <img src="media/assembly_imgs/IMG_6.jpg" width="300" />
 
 
 ### Plug everything in and its ready!
 Power the electronics by plugging in the DC barrel plug adapter to the servo motor controller and the 5v usb-c connector to the raspberry pi 5. The usb cables from the servo controller and the cameras can directly be plugged in to the raspberry pi.
+
 <img src="media/assembly_imgs/IMG_1940.jpg" width="400" /> <img src="media/assembly_imgs/IMG_1938.jpg" width="400" />
