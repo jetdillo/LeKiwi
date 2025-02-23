@@ -13,7 +13,7 @@ This page provides a complete list of parts needed to build the LeKiwi mobile ma
 > Prices and items may vary depending on geographic location and time of purchase. If you find links for other countries or cheaper suppliers, please create an issue or PR so that we add them to the list!
 
 > [!IMPORTANT]  
-> There are now two options regarding motors and electronics (as also the case with the SO100 arms), either **5V** or **12V**. If you alrady have some experience with electronics you can build the 12V version to get more power :muscle:. If you prefer simplicity you can build the 5V version with plug and play wiring.
+> There are now two options regarding motors and electronics (as also the case with the SO100 arms), either **5V** or **12V**. If you already have some experience with electronics you can build the 12V version to create a stronger robot :muscle:. If you prefer simplicity you can build the 5V version with plug and play wiring.
 
 These parts are the same for both versions:
 ### Mobile Base Structure:
