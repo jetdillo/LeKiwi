@@ -1,8 +1,8 @@
 # LeKiwi
 <div style="display: flex; justify-content: center; align-items: center; padding: 25px;">
-    <img src="media/hf-logo-with-title.png" height="100" style="background-color: white; padding: 10px;"/>
-    <img src="media/lerobot-logo-light.png" height="100" style="background-color: white; padding: 10px;"/>
-    <img src="media/University-Wordmark-Full-Color-RGB.png" height="100" style="background-color: white; padding: 10px;"/>
+    <img src="media/hf-logo-with-title.png" height="70" style="background-color: white; padding: 10px;"/>
+    <img src="media/lerobot-logo-light.png" height="70" style="background-color: white; padding: 10px;"/>
+    <img src="media/University-Wordmark-Full-Color-RGB.png" height="70" style="background-color: white; padding: 10px;"/>
 </div>
 
 
