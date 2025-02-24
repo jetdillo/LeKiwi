@@ -1,8 +1,9 @@
 # LeKiwi
 <div style="display: flex; justify-content: center; align-items: center; padding: 25px;">
-    <img src="media/hf-logo-with-title.png" height="85" style="background-color: white; padding: 10px;"/>
-    <img src="media/lerobot-logo-light.png" height="85" style="background-color: white; padding: 10px;"/>
-    <img src="media/University-of-Illinois-logo.jpg" height="85" style="background-color: white; padding: 10px;"/>
+    <img src="media/167040694.png" height="80" style="background-color: white; padding: 10px;"/>
+    <img src="media/University-of-Illinois-logo.jpg" height="80" style="background-color: white; padding: 10px;"/>
+    <img src="media/hf-logo-with-title.png" height="80" style="background-color: white; padding: 10px;"/>
+    <img src="media/lerobot-logo-light.png" height="80" style="background-color: white; padding: 10px;"/>
 </div>
 
 
