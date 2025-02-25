@@ -11,11 +11,11 @@
 
 <img src="./media/lekiwi_cad_v1.png" width=300/> <img src="./media/lekiwi_real.jpg" width=300/> 
 
-## Quick Links
+## Step by step tutorial
 1. [Bill of Materials](BOM.md)
 2. [3D Printing](3DPrinting.md)
 3. [Assembly](Assembly.md)
-4. [Fusion 360 CAD](https://a360.co/4k1P8yO)
+4. [Get started with LeRobot](https://github.com/huggingface/lerobot/blob/main/examples/11_use_lekiwi.md)
 
 ## Hardware Design
 #### Standardized Stacked Base Plates
@@ -43,6 +43,9 @@ Goals:
 - Teleoperation with controller or laptop WASD + leader arm
 - Data collection pipeline
 - Streaming joint angles and camera feed
+
+## CAD Design
+[Fusion 360 CAD](https://a360.co/4k1P8yO)
 
 ## Get In Touch!
 
