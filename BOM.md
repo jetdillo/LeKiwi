@@ -52,7 +52,7 @@ These parts are the same for both versions:
 | Lever Wire Connector | 1 | $6.70 | [Amazon](https://www.amazon.com/Wago-221-413-LEVER-NUTS-Conductor-Connectors/dp/B06XGYXVXR/ref=sr_1_4) | €7.18 | [Amazon](https://www.amazon.fr/221-413-fil-électrique-connecteur-220-240-Terminal/dp/B01AKF3I58) |
 | 12v 5a DC plug connector | 1 | $9.49 | [Amazon](https://www.amazon.com/43x2pcs-Connectors-Security-Lighting-MILAPEAK/dp/B072BXB2Y8/ref=sr_1_11) | €8.99 | [Amazon](https://www.amazon.fr/RUNCCI-YUN-Alimentation-dalimentation-Connecteur-Surveiller/dp/B0CX44HTKZ) |
 | 12v to 5v 5a USB-C converter | 1 | $9.99 | [Amazon](https://www.amazon.com/Klnuoxj-Converter-Interface-Waterproof-Compatible/dp/B0CRVW7N2J?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A1QRG6NHEUKUZO&gQT=0&th=1) | €9.99 | [Amazon](https://www.amazon.fr/Greluma-convertisseur-Adaptateur-dalimentation-Compatible/dp/B0D7VDL2X6) |
-| 12v ST3215 Feetech Servo | 3 | $16.45 | [Alibaba](https://www.alibaba.com/product-detail/12V-30KG-STS3215-High-Torque-Intelligent_1601251263977.html) | €15.85 | [Alibaba](https://www.alibaba.com/product-detail/12V-30KG-STS3215-High-Torque-Intelligent_1601251263977.html) |
+| 12v ST3215 Feetech Servo | 3 | $13.89 | [Alibaba](https://www.alibaba.com/product-detail/Feetech-STS3215-SO-ARM100-Servo-12V_1601292634404.html?spm=a2700.details.you_may_like.3.5ab1478e45kY42) | €13.38 | [Alibaba](https://www.alibaba.com/product-detail/Feetech-STS3215-SO-ARM100-Servo-12V_1601292634404.html?spm=a2700.details.you_may_like.3.5ab1478e45kY42)  |
 | **Total** | | **$108.5** | | **€106.7** | |
 
 
