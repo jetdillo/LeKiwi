@@ -25,8 +25,8 @@
 - (12V version) 12v 5A Li-ion battery
 - (5V version) 65W Laptop power bank
 
-> [!IMPORTANT]  
-> There are now two options regarding motors and electronics (as also the case with the SO100 arms), either **5V** or **12V**. If this is the first time you build robots please choose the 5V version as it’s a little bit easier to assemble. If you are more experienced and want to lift heavier objects choose the 12V version.
+> [!TIP]  
+> If this is the first time you build robots please choose the 5V version as it’s a little bit easier to assemble. If you are more experienced and want to lift heavier objects choose the 12V version.
 
 #### Compute
 - Raspberry Pi 5
