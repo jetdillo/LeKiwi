@@ -51,6 +51,7 @@ Goals:
 ## CAD Design
 [Fusion 360 CAD](https://a360.co/4k1P8yO)
 
+We also provide the [URDF](./URDF/) exported from CAD for simulation.
 ## Get In Touch!
 
 Join the project on this [Discord server](https://discord.com/channels/1216765309076115607/1318390825528332371)! Let us know if you have any questions, suggestions, or other feedback.
