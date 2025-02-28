@@ -1,7 +1,7 @@
 # 3D Printing
 > **Estimated time:** ~34 hours
 
-We provide ready-to-print STL files for the 3D-printed parts below. These can be printed with generic PLA filament on consumer-grade FDM printers. We tested on a [Bambu Lab P1S](https://us.store.bambulab.com/products/p1s) printer.
+We provide ready-to-print STL files for the 3D-printed parts below. These can be printed with generic PLA filament on consumer-grade FDM printers. We tested on a [Bambu Lab P1S](https://us.store.bambulab.com/products/p1s) printer. For all components, we just load into bambuslicer, auto-rotate and auto-arrange, enable any recommended supports, and print.
 
 ## Parts
 
@@ -18,7 +18,7 @@ We provide ready-to-print STL files for the 3D-printed parts below. These can be
 | [RasPi case Bottom](/3DPrintMeshes/pi_case_bottom.stl) | 1 | <sup>[2](#footnote2)</sup> |
 | Arducam [base mount](/3DPrintMeshes/base_camera_mount.stl) and [Wrist mount](/3DPrintMeshes/wrist_camera_mount.stl)| 1 | **Compatible with [this camera](https://www.amazon.com/Arducam-Camera-Computer-Without-Microphone/dp/B0972KK7BC)** |
 | Webcam [base mount](3DPrintMeshes/webcam_mount/webcam_mount.stl), [gripper insert](3DPrintMeshes/webcam_mount/so100_gripper_cam_mount_insert.stl), and [wrist mount](3DPrintMeshes/webcam_mount/webcam_mount_wrist.stl) | 1 | **Compatible with [this camera](https://www.amazon.fr/Vinmooog-equipement-Microphone-Enregistrement-conférences/dp/B0BG1YJWFN/)** |
-| [Modified Follower Arm Base](/3DPrintMeshes/modified_base_arm.stl) | 1 | Use Supports, **Optional, but recommended if you have not built SO-100 already** |
+| [Modified Follower Arm Base](/3DPrintMeshes/modified_base_arm.stl) | 1 | Use Tree Supports, **Optional, but recommended if you have not built SO-100 already** |
 | [Follower arm](https://github.com/TheRobotStudio/SO-ARM100) | 1 | |
 | [Leader arm](https://github.com/TheRobotStudio/SO-ARM100) | 1 | |
 
@@ -36,7 +36,7 @@ Assuming you already have access to a 3D printer<sup>[3](#footnote3)</sup>, foll
 3. Load-in filament
 
 ### 2. Print the Parts
-1. Upload STL file to printing/slicing software
+1. Upload STL file to printing/slicing software. Auto-rotate and auto-arrange. 
 2. Enable supports if specified and slice. We tested with the following settings:
     - Infill Density: 15%
     - Layer Height: 0.2 mm
