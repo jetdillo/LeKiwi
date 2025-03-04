@@ -104,7 +104,7 @@ Everything needed for the wired version:
 | Power Supply | 1 | $10 | [Amazon](https://www.amazon.com/Facmogu-Switching-Transformer-Compatible-5-5x2-1mm/dp/B087LY41PV/) | €13 | [Amazon](https://www.amazon.fr/-/en/dp/B01HRR9GY4/) | 
 | USB Hub | 1 | $16 | [Amazon](https://www.amazon.com/UGREEN-Delivery-Multiport-Adapter-Thinkpad/dp/B0BR3M8XHK) | €14 | [Amazon](https://www.amazon.fr/UGREEN-Revodok-Alimenté-Adaptateur-Compatible/dp/B0BR3M8XHK) | 
 | DC extension cable (5M)  | 1 | $10 | [Amazon](https://www.amazon.com/Vanxse-10Meters-33FT-Extension-Surveillance-Microphone/dp/B00WO9BR20) | €7 | [Amazon](https://www.amazon.fr/EZVIZ-Câble-dalimentation-5m/dp/B0C18ZJF8V/)|
-| USB-C extension cable | 1 | $?| [Amazon]() | €19 | [Amazon](https://www.amazon.fr/EUDOBEL-Rallonge-Extension-Thunderbolt-iPhone16/dp/B0DLP16V7J/) | 
+| USB-C extension cable | 1 | $13.99 | [Amazon](https://www.amazon.com/Extension-Extender-Transfer-AINOPE-Compatible/dp/B0BHHK1W95/) | €19 | [Amazon](https://www.amazon.fr/EUDOBEL-Rallonge-Extension-Thunderbolt-iPhone16/dp/B0DLP16V7J/) | 
 | **Total** || **$184** || **€240.3** ||
 
 > Head to [3D Printing](3DPrinting.md) for the next step!
