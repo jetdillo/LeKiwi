@@ -6,7 +6,7 @@ This page provides a complete list of parts needed to build the LeKiwi mobile ma
 |---------|----:|----:|
 | **12V** |  **$498.21**  |  **€542.56**  |
 | **5V**  |  **$534.95**  |  **€525.9**  |
-| **Base only (5V)** |  **$299.95**  |  **€302.9**  |
+| **Base only (5V)** |  **$261.95**  |  **€306.9**  |
 | **Base only (12V)** |  **$267.43**  |  **€305**  |
 
 > [!NOTE] 
