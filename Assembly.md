@@ -45,13 +45,28 @@ With all 3 modules attached to the bottom base plate:
 
     - For the **5V version**: you can use the powerbamk holder to keep the powerbank in place `3DPrintMeshes/5v_specific/5v_power_bank_holder.stl`. The powerbank can be mounted in the back on the lower plate.
 
-    <img src="media/assembly_imgs/IMG_7.jpg" width="400" />
+        <img src="media/assembly_imgs/IMG_7.jpg" width="400" />
 
 ### 3. Top plate Assembly
 1. Place the raspberry pi 5 into the pi case bottom and snap on the top part of the case. 
 2. Attach the Pi to the top base plate using 1 m3x12 machine screw(the second screw will be placed in with the standoffs) and mount the SO-100 arm with 4 m3x20 machine screws. Using our modified SO-100 base or the original will work as there are holes for both in the plate.
 
     <img src="media/assembly_imgs/IMG_1929.jpg" width="400" />
+
+- For the **Wired version**: you can print these two parts: `3DPrintMeshes/wired_specific/cable_holder v0.stl` and `3DPrintMeshes/wired_specific/usb_connector_case v1.stl` and assemble them like the images below. It is **very important** to plug the usb-c cable in the way like the images. Thus the `UGreen` logo on the same side as `20GBS, 240W` logo side. And the `20GBS, 240W` side on top into your laptop. If the usb-c extenstion cable can't find your camera's or motor controller board, the cable orientation is probably wrong and should be flipped 180 degrees!
+
+    Add cable holder and usb hub holder like this:
+
+    <img src="media/assembly_imgs/WIRED4.jpeg" width="400" />
+
+    Attach cables for 2 camera's motor control board and usb-c extender like this (important!):
+
+    <div style="display: flex; align-items: flex-start;">
+     <img src="media/assembly_imgs/WIRED1.jpeg" width="30%" alt="Wired Step 1" />
+     <img src="media/assembly_imgs/WIRED2.jpeg" width="30%" alt="Wired Step 2" />
+     <img src="media/assembly_imgs/WIRED3.jpeg" width="30%" alt="Wired Step 3" />
+    </div>
+
 
 ### 4. Final Assembly
 1. Attach 6 50mm standoffs to the bottom base plate with 6 m3x10 screws

@@ -8,15 +8,16 @@ This page provides a complete list of parts needed to build the LeKiwi mobile ma
 | **5V**  |  **$534.95**  |  **€525.9**  |
 | **Base only (5V)** |  **$261.95**  |  **€306.9**  |
 | **Base only (12V)** |  **$267.43**  |  **€305**  |
+| **Base only  wired** |  **$184**  |  **€240.3**  |
 
 > [!NOTE] 
 > Prices and items may vary depending on geographic location and time of purchase. If you find links for other countries or cheaper suppliers, please create an issue or PR so that we add them to the list!
 
 > [!IMPORTANT]  
-> There are now two options regarding motors and electronics (as also the case with the SO100 arms), either **5V** or **12V**. If this is the first time you build robots please choose the 5V version as it’s a little bit easier to assemble. If you are more experienced and want to lift heavier objects choose the 12V version.
+> There are three options regarding motors and electronics (as also the case with the SO100 arms), either **5V** or **12V** or a **wired** version. If this is the first time you build robots please choose the 5V version as it’s a little bit easier to assemble. If you are more experienced and want to lift heavier objects choose the 12V version. If you want the cheapest options, go for the wired LeKiwi robot (at the end of the Bill of Materials list).
 
 
-These parts are the same for both versions:
+These parts are the same for both 5V and 12V versions:
 ### Mobile Base Structure:
 | Part | Amount | Unit Cost (US) | Buy (US) | Unit Cost (EU) | Buy (EU) |
 | - | - | - | - | - | - |
@@ -87,6 +88,24 @@ These parts are the same for both versions:
 | Power Supply | 1 | $10 | [Amazon](https://www.amazon.com/Facmogu-Switching-Transformer-Compatible-5-5x2-1mm/dp/B087LY41PV/) | €13 | [Amazon](https://www.amazon.fr/-/en/dp/B01HRR9GY4/) | 
 | **Total** | | **$212** | | **€193** | |
 
+## Wired version :electric_plug:
+Everything needed for the wired version:
+
+| Part | Amount | Unit Cost (US) | Buy (US) | Unit Cost (EU) | Buy (EU) |
+| - | - | - | - | - | - |
+| 4" Omni wheels | 3 | $9.99 | [VEX Robotics](https://www.vexrobotics.com/omni-wheels.html?srsltid=AfmBOorWdWT-FIiWSAbicYWSxqYr-d5X3CJSGxMkO33WO0thwlTn4DQu) | €24.5 | [RobotShop](https://eu.robotshop.com/products/100mm-omnidirectional-wheel-brass-bearing-rollers) |
+| M2 M3 M4 Assorted Screw Set | 1 | $14.99 | [Amazon](https://www.amazon.com/Button-Socket-Washers-Assortment-Machine/dp/B0BMQGJP3F) | €23.5 | [Amazon](https://www.amazon.fr/Cylindrique-Inoxydable-M2-Socket-Assortiment/dp/B09Y8WYFWD/) |
+| M3x50mm Standoffs | 1 | $5.99  | [Amazon](https://www.amazon.com/Female-Standoff-Quadcopter-Computer-Circuit/dp/B0CJCH8TWS) | €10.3 | [Amazon](https://www.amazon.fr/LON0167-Filetage-entretoise-Innengewinde-Standoff/dp/B09FF1ZBHW/) |
+| USB camera<sup>[2](#footnote2)</sup> | 2 | $12.98 | [Amazon](https://a.co/d/236G8Wn) | €12.00 | [Amazon](https://www.amazon.fr/Vinmooog-equipement-Microphone-Enregistrement-conf%C3%A9rences/dp/B0BG1YJWFN/) |
+| USB-C to USB-A Cable 2 pcs | 1 | $7 | [Amazon](https://www.amazon.com/Charging-etguuds-Charger-Braided-Compatible/dp/B0B8NWLLW2/?th=1) | €7 | [Amazon](https://www.amazon.fr/dp/B07BNF842T/) |
+| USB-C To DC Cable | 1 | $8 | [Amazon](https://www.amazon.com/Tpenod-Charging-Charger-Bank-Output-Portable/dp/B0BJFKND59) | €12 | [Amazon](https://www.amazon.fr/dp/B0C58PVTYX) |
+| STS3215 Servo | 3 | $15 | [Alibaba](https://www.alibaba.com/product-detail/6PCS-7-4V-STS3215-Servos-for_1600523509006.html) | 13€ | [Alibaba](https://www.alibaba.com/product-detail/6PCS-7-4V-STS3215-Servos-for_1600523509006.html) | 
+| Motor Control Board | 1 | $11 | [Amazon](https://www.amazon.com/Waveshare-Integrates-Control-Circuit-Supports/dp/B0CTMM4LWK/) | €12 | [Amazon](https://www.amazon.fr/-/en/dp/B0CJ6TP3TP/)| €7 | [Amazon](https://www.amazon.fr/dp/B07BNF842T/) | 
+| Power Supply | 1 | $10 | [Amazon](https://www.amazon.com/Facmogu-Switching-Transformer-Compatible-5-5x2-1mm/dp/B087LY41PV/) | €13 | [Amazon](https://www.amazon.fr/-/en/dp/B01HRR9GY4/) | 
+| USB Hub | 1 | $16 | [Amazon](https://www.amazon.com/UGREEN-Delivery-Multiport-Adapter-Thinkpad/dp/B0BR3M8XHK) | €14 | [Amazon](https://www.amazon.fr/UGREEN-Revodok-Alimenté-Adaptateur-Compatible/dp/B0BR3M8XHK) | 
+| DC extension cable (5M)  | 1 | $10 | [Amazon](https://www.amazon.com/Vanxse-10Meters-33FT-Extension-Surveillance-Microphone/dp/B00WO9BR20) | €7 | [Amazon](https://www.amazon.fr/EZVIZ-Câble-dalimentation-5m/dp/B0C18ZJF8V/)|
+| USB-C extension cable | 1 | $?| [Amazon]() | €19 | [Amazon](https://www.amazon.fr/EUDOBEL-Rallonge-Extension-Thunderbolt-iPhone16/dp/B0DLP16V7J/) | 
+| **Total** || **$184** || **€240.3** ||
 
 > Head to [3D Printing](3DPrinting.md) for the next step!
 
