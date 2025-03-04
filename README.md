@@ -26,7 +26,7 @@
 - (5V version) 65W Laptop power bank
 
 > [!TIP]  
-> If this is the first time you build robots please choose the 5V version as it’s a little bit easier to assemble. If you are more experienced and want to lift heavier objects choose the 12V version.
+> If this is the first time you build robots please choose the 5V version as it’s a little bit easier to assemble. If you are more experienced and want to lift heavier objects choose the 12V version. If you want to cheapest option possible go for the wired LeKiwi version.
 
 #### Compute
 - Raspberry Pi 5
