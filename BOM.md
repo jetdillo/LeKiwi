@@ -4,10 +4,10 @@ This page provides a complete list of parts needed to build the LeKiwi mobile ma
 
 | Price| US  | EU  |
 |---------|----:|----:|
-| **12V** |  **$498.21**  |  **€542.56**  |
-| **5V**  |  **$534.95**  |  **€525.9**  |
-| **Base only (5V)** |  **$261.95**  |  **€306.9**  |
-| **Base only (12V)** |  **$267.43**  |  **€305**  |
+| **12V** |  **$488.21**  |  **€542.56**  |
+| **5V**  |  **$524.95**  |  **€525.9**  |
+| **Base only (5V)** |  **$251.95**  |  **€306.9**  |
+| **Base only (12V)** |  **$257.43**  |  **€305**  |
 | **Base only  wired** |  **$184**  |  **€240.3**  |
 
 > [!NOTE] 
@@ -32,8 +32,8 @@ These parts are the same for both 5V and 12V versions:
 |--|:-:|:-:|-|:-:|-|
 | Raspberry Pi 5 (4GB)| 1 |$60.00| [Adafruit](https://www.adafruit.com/product/5812)| €57.00| [Mouser](https://eu.mouser.com/ProductDetail/Raspberry-Pi/SC1111?qs=HoCaDK9Nz5fnLhlMNnKTiQ%3D%3D)|
 | USB camera<sup>[2](#footnote2)</sup> | 2 | $12.98 | [Amazon](https://a.co/d/236G8Wn) | €12.00 | [Amazon](https://www.amazon.fr/Vinmooog-equipement-Microphone-Enregistrement-conf%C3%A9rences/dp/B0BG1YJWFN/) |
-| microSD card | 1 | $21.99 | [Amazon](https://a.co/d/b07pO8v) | €10.00 | [Amazon](https://www.amazon.fr/Lexar-Carte-Micro-adaptateur-Smartphone/dp/B08XZ2KS1F)|
-| **Total** ||  **$108**  ||  **€91** ||
+| microSD card | 1 | $11.23 | [Amazon](https://www.amazon.com/SanDisk-Extreme-microSDXC-Memory-Adapter/dp/B09X7C7LL1/) | €10.00 | [Amazon](https://www.amazon.fr/Lexar-Carte-Micro-adaptateur-Smartphone/dp/B08XZ2KS1F)|
+| **Total** ||  **$98**  ||  **€91** ||
 
 
 ### Other
