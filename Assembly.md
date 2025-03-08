@@ -100,12 +100,11 @@ For these [camera's](https://www.amazon.fr/Vinmooog-equipement-Microphone-Enregi
     <img src="media/assembly_imgs/IMG_1.jpg" width="300" />
 2. Now take the camera mount `3DPrintMeshes/webcam_mount/webcam_mount_wrist.stl`, and add a M3x12mm bolt and screw it firmly until it locks with the M3 nut in the gripper. Then insert your camera in the mount and add 2x M3x35mm bolts in the back holes to lock the camera in place, use 2 nuts that you insert in the slots to lock the bolts.
 
-    <img src="media/assembly_imgs/IMG_9.jpg" width="200" />
-    <img src="media/assembly_imgs/IMG_10.jpg" width="200" />
+    <img src="media/assembly_imgs/IMG_3.jpg" width="200" />
 
 3. Do the same for the base camera `3DPrintMeshes/webcam_mount/webcam_mount.stl` and attach it to the front of LeKiwi.
 
-    <img src="media/assembly_imgs/IMG_6.jpg" width="300" />
+    <img src="media/assembly_imgs/IMG_2.jpg" width="300" />
 
 
 ### Plug everything in and its ready!
