@@ -46,6 +46,10 @@ With all 3 modules attached to the bottom base plate:
     - For the **5V version**: you can use the powerbamk holder to keep the powerbank in place `3DPrintMeshes/5v_specific/5v_power_bank_holder.stl`. The powerbank can be mounted in the back on the lower plate.
 
         <img src="media/assembly_imgs/IMG_7.jpg" width="400" />
+        
+      The cables can be connected  according to following diagram:
+      
+        <img src="media/assembly_imgs/Slide1.jpeg" width="400" />
 
 ### 3. Top plate Assembly
 1. Place the raspberry pi 5 into the pi case bottom and snap on the top part of the case. 
