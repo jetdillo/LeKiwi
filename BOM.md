@@ -4,11 +4,11 @@ This page provides a complete list of parts needed to build the LeKiwi mobile ma
 
 | Price| US  | EU  |
 |---------|----:|----:|
-| **12V** |  **$488.21**  |  **€542.56**  |
-| **5V**  |  **$524.95**  |  **€525.9**  |
-| **Base only (5V)** |  **$251.95**  |  **€306.9**  |
-| **Base only (12V)** |  **$257.43**  |  **€305**  |
-| **Base only  wired** |  **$174**  |  **€233.3**  |
+| **12V** |  **$488**  |  **€543**  |
+| **5V**  |  **$505**  |  **€536**  |
+| **Base only (5V)** |  **$254**  |  **€305**  |
+| **Base only (12V)** |  **$257.5**  |  **€305**  |
+| **Base only  wired** |  **$190**  |  **€245.3**  |
 
 > [!NOTE] 
 > Prices and items may vary depending on geographic location and time of purchase. If you find links for other countries or cheaper suppliers, please create an issue or PR so that we add them to the list!
@@ -67,17 +67,14 @@ These parts are the same for both 5V and 12V versions:
 
 ## 5V version :battery:
 
-> [!WARNING]  
-> This powerbank can deliver the needed power but the USB-C cable to DC cable "can't communicate" on it's power needs like USB-C cables normally do ([explanation](https://acroname.com/blog/basics-usb-power-delivery-negotiations?srsltid=AfmBOor4ItX4pxG3kYICo1sf_QQWkkEJafV66F8Jzyo2OdPAJUngfNCn)). This means the USB-C to DC cable outputs 9V with this battery. The FeeTech motors will sometimes consider this "overvoltage" (designed for 7.4V), and start blinking it's led red, and also move in a more shakey way. This can be "solved" by replugging the  DC plug in the motor controller (maybe a couple of times) until the red led stops blinking. If there are people with other powerbanks that work better we would love to hear this and these alternatives, to fix this.
-
 ### Mobile Base Electronics (5V):
 | Part | Amount | Unit Cost (US) | Buy (US) | Unit Cost (EU) | Buy EU | 
 |:---|:---:|:---:|:---:|:---:|:---|
 | 20000maH 85W Power Bank | 1 | $42 | [Amazon](https://www.amazon.com/CUKTECH-20000mAh-Portable-Charging-External/dp/B0D3PMWN46/) | €50 | [Amazon](https://www.amazon.fr/CUKTECH-Batterie-Affichage-Numérique-Compatible/dp/B0D3PMWN46/) |
 | STS3215 Servo | 3 | $15 | [Alibaba](https://www.alibaba.com/product-detail/6PCS-7-4V-STS3215-Servos-for_1600523509006.html) | 13€ | [Alibaba](https://www.alibaba.com/product-detail/6PCS-7-4V-STS3215-Servos-for_1600523509006.html) | 
 | USB-C Cable 2pcs (1feet/0.5 m) | 1 | $8 | [Amazon](https://www.amazon.com/INIU-2-Pack-iPhone-Samsung-MacBook/dp/B0D8QBHZSW/) | €7.6 | [Amazon](https://www.amazon.fr/SUNGUY-charge-rapide-MacBook-Samsung/dp/B0DNM89Q5P) |
-| USB-C To DC Cable | 1 | $8 | [Amazon](https://www.amazon.com/Tpenod-Charging-Charger-Bank-Output-Portable/dp/B0BJFKND59) | €12 | [Amazon](https://www.amazon.fr/dp/B0C58PVTYX) |
-| **Total** | | **$103** | | **€108.6** | |
+| USB-C To DC Cable | 1 | $10 | [Amazon](https://www.amazon.com/DSD-TECH-MagicConn-Power-Cable/dp/B0B9G1KFL3) | €10 | [Amazon](https://www.amazon.fr/dp/B0B9G1KFL3) |
+| **Total** | | **$105** | | **€106.6** | |
 
 
 ### SO-100 2 Robot Arm Teleoperation Set (5V):
@@ -98,13 +95,13 @@ Everything needed for the wired version:
 | M3x50mm Standoffs | 1 | $5.99  | [Amazon](https://www.amazon.com/Female-Standoff-Quadcopter-Computer-Circuit/dp/B0CJCH8TWS) | €10.3 | [Amazon](https://www.amazon.fr/LON0167-Filetage-entretoise-Innengewinde-Standoff/dp/B09FF1ZBHW/) |
 | USB camera<sup>[2](#footnote2)</sup> | 2 | $12.98 | [Amazon](https://a.co/d/236G8Wn) | €12.00 | [Amazon](https://www.amazon.fr/Vinmooog-equipement-Microphone-Enregistrement-conf%C3%A9rences/dp/B0BG1YJWFN/) |
 | USB-C to USB-A Cable 2 pcs | 1 | $7 | [Amazon](https://www.amazon.com/Charging-etguuds-Charger-Braided-Compatible/dp/B0B8NWLLW2/?th=1) | €7 | [Amazon](https://www.amazon.fr/dp/B07BNF842T/) |
-| USB-C To DC Cable | 1 | $8 | [Amazon](https://www.amazon.com/Tpenod-Charging-Charger-Bank-Output-Portable/dp/B0BJFKND59) | €12 | [Amazon](https://www.amazon.fr/dp/B0C58PVTYX) |
-| STS3215 Servo | 3 | $15 | [Alibaba](https://www.alibaba.com/product-detail/6PCS-7-4V-STS3215-Servos-for_1600523509006.html) | 13€ | [Alibaba](https://www.alibaba.com/product-detail/6PCS-7-4V-STS3215-Servos-for_1600523509006.html) | 
+| USB-C To DC Cable | 1 | $10 | [Amazon](https://www.amazon.com/DSD-TECH-MagicConn-Power-Cable/dp/B0B9G1KFL3) | €10 | [Amazon](https://www.amazon.fr/dp/B0B9G1KFL3) |
+| STS3215 Servo | 3 | $15 | [Alibaba](https://www.alibaba.com/product-detail/6PCS-7-4V-STS3215-Servos-for_1600523509006.html) | €13 | [Alibaba](https://www.alibaba.com/product-detail/6PCS-7-4V-STS3215-Servos-for_1600523509006.html) | 
 | Motor Control Board | 1 | $11 | [Amazon](https://www.amazon.com/Waveshare-Integrates-Control-Circuit-Supports/dp/B0CTMM4LWK/) | €12 | [Amazon](https://www.amazon.fr/-/en/dp/B0CJ6TP3TP/)| €7 | [Amazon](https://www.amazon.fr/dp/B07BNF842T/) | 
 | Power Supply | 1 | $10 | [Amazon](https://www.amazon.com/Facmogu-Switching-Transformer-Compatible-5-5x2-1mm/dp/B087LY41PV/) | €13 | [Amazon](https://www.amazon.fr/-/en/dp/B01HRR9GY4/) | 
 | USB Hub | 1 | $16 | [Amazon](https://www.amazon.com/UGREEN-Delivery-Multiport-Adapter-Thinkpad/dp/B0BR3M8XHK) | €14 | [Amazon](https://www.amazon.fr/UGREEN-Revodok-Alimenté-Adaptateur-Compatible/dp/B0BR3M8XHK) | 
 | USB-C extension cable | 1 | $13.99 | [Amazon](https://www.amazon.com/Extension-Extender-Transfer-AINOPE-Compatible/dp/B0BHHK1W95/) | €19 | [Amazon](https://www.amazon.fr/EUDOBEL-Rallonge-Extension-Thunderbolt-iPhone16/dp/B0DLP16V7J/) | 
-| **Total** || **$174** || **€233.3** ||
+| **Total** || **$190** || **€245.3** ||
 
 > Head to [3D Printing](3DPrinting.md) for the next step!
 
