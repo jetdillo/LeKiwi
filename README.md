@@ -54,7 +54,7 @@ Goals:
 We also provide the [URDF](./URDF/) exported from CAD for simulation.
 ## Get In Touch!
 
-Join the project on this [Discord server](https://discord.com/channels/1216765309076115607/1318390825528332371)! Let us know if you have any questions, suggestions, or other feedback.
+Join the project on LeRobot's [Discord server](https://discord.gg/Jtz5TJtb2u) (channel `mobile-so100-arm`)! Let us know if you have any questions, suggestions, or other feedback.
 
 ## Main Contributors
 Thank you to everyone who helped on the project!
