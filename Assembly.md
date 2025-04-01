@@ -29,8 +29,7 @@
 
 With all 3 modules attached to the bottom base plate:
 
-<img src="media/assembly_imgs/DSC00007.jpg" width="400" />
-<img src="media/assembly_imgs/DSC00008.jpg" width="400" />
+<img src="media/assembly_imgs/DSC00007.jpg" width="350" /> <img src="media/assembly_imgs/DSC00008.jpg" width="350" />
 
 ### 2. Bottom Plate Assembly
 1. Insert m3 nuts into the mounts for the servo controller and battery mounts. Screw both onto the bottom base plate with 4 m3x12 machine screws.
