@@ -4,11 +4,11 @@ This page provides a complete list of parts needed to build the LeKiwi mobile ma
 
 | Price| US  | EU  |
 |---------|----:|----:|
-| **12V** |  **$488**  |  **€543**  |
-| **5V**  |  **$505**  |  **€536**  |
-| **Base only (5V)** |  **$254**  |  **€305**  |
-| **Base only (12V)** |  **$257.5**  |  **€305**  |
-| **Base only  wired** |  **$190**  |  **€245.3**  |
+| **12V** |  **$482**  |  **€533**  |
+| **5V**  |  **$499**  |  **€526**  |
+| **Base only (5V)** |  **$248**  |  **€295**  |
+| **Base only (12V)** |  **$251.5**  |  **€295**  |
+| **Base only  wired** |  **$184**  |  **€235**  |
 
 > [!NOTE] 
 > Prices and items may vary depending on geographic location and time of purchase. If you find links for other countries or cheaper suppliers, please create an issue or PR so that we add them to the list!
@@ -23,8 +23,7 @@ These parts are the same for both 5V and 12V versions:
 | - | - | - | - | - | - |
 | 4" Omni wheels | 3 | $9.99 | [VEX Robotics](https://www.vexrobotics.com/omni-wheels.html?srsltid=AfmBOorWdWT-FIiWSAbicYWSxqYr-d5X3CJSGxMkO33WO0thwlTn4DQu) | €24.5 | [RobotShop](https://eu.robotshop.com/products/100mm-omnidirectional-wheel-brass-bearing-rollers) |
 | M2 M3 M4 Assorted Screw Set | 1 | $14.99 | [Amazon](https://www.amazon.com/Button-Socket-Washers-Assortment-Machine/dp/B0BMQGJP3F) | €23.5 | [Amazon](https://www.amazon.fr/Cylindrique-Inoxydable-M2-Socket-Assortiment/dp/B09Y8WYFWD/) |
-| M3x50mm Standoffs | 1 | $5.99  | [Amazon](https://www.amazon.com/Female-Standoff-Quadcopter-Computer-Circuit/dp/B0CJCH8TWS) | €10.3 | [Amazon](https://www.amazon.fr/LON0167-Filetage-entretoise-Innengewinde-Standoff/dp/B09FF1ZBHW/) |
-| **Total** || **$50.95** || **€107.3** ||
+| **Total** || **$44.96** || **€97** ||
 
 ### Sensors and Compute:
 
@@ -92,7 +91,6 @@ Everything needed for the wired version:
 | - | - | - | - | - | - |
 | 4" Omni wheels | 3 | $9.99 | [VEX Robotics](https://www.vexrobotics.com/omni-wheels.html?srsltid=AfmBOorWdWT-FIiWSAbicYWSxqYr-d5X3CJSGxMkO33WO0thwlTn4DQu) | €24.5 | [RobotShop](https://eu.robotshop.com/products/100mm-omnidirectional-wheel-brass-bearing-rollers) |
 | M2 M3 M4 Assorted Screw Set | 1 | $14.99 | [Amazon](https://www.amazon.com/Button-Socket-Washers-Assortment-Machine/dp/B0BMQGJP3F) | €23.5 | [Amazon](https://www.amazon.fr/Cylindrique-Inoxydable-M2-Socket-Assortiment/dp/B09Y8WYFWD/) |
-| M3x50mm Standoffs | 1 | $5.99  | [Amazon](https://www.amazon.com/Female-Standoff-Quadcopter-Computer-Circuit/dp/B0CJCH8TWS) | €10.3 | [Amazon](https://www.amazon.fr/LON0167-Filetage-entretoise-Innengewinde-Standoff/dp/B09FF1ZBHW/) |
 | USB camera<sup>[2](#footnote2)</sup> | 2 | $12.98 | [Amazon](https://a.co/d/236G8Wn) | €12.00 | [Amazon](https://www.amazon.fr/Vinmooog-equipement-Microphone-Enregistrement-conf%C3%A9rences/dp/B0BG1YJWFN/) |
 | USB-C to USB-A Cable 2 pcs | 1 | $7 | [Amazon](https://www.amazon.com/Charging-etguuds-Charger-Braided-Compatible/dp/B0B8NWLLW2/?th=1) | €7 | [Amazon](https://www.amazon.fr/dp/B07BNF842T/) |
 | USB-C To DC Cable | 1 | $10 | [Amazon](https://www.amazon.com/DSD-TECH-MagicConn-Power-Cable/dp/B0B9G1KFL3) | €10 | [Amazon](https://www.amazon.fr/dp/B0B9G1KFL3) |
@@ -101,7 +99,7 @@ Everything needed for the wired version:
 | Power Supply | 1 | $10 | [Amazon](https://www.amazon.com/Facmogu-Switching-Transformer-Compatible-5-5x2-1mm/dp/B087LY41PV/) | €13 | [Amazon](https://www.amazon.fr/-/en/dp/B01HRR9GY4/) | 
 | USB Hub | 1 | $16 | [Amazon](https://www.amazon.com/UGREEN-Delivery-Multiport-Adapter-Thinkpad/dp/B0BR3M8XHK) | €14 | [Amazon](https://www.amazon.fr/UGREEN-Revodok-Alimenté-Adaptateur-Compatible/dp/B0BR3M8XHK) | 
 | USB-C extension cable | 1 | $13.99 | [Amazon](https://www.amazon.com/Extension-Extender-Transfer-AINOPE-Compatible/dp/B0BHHK1W95/) | €19 | [Amazon](https://www.amazon.fr/EUDOBEL-Rallonge-Extension-Thunderbolt-iPhone16/dp/B0DLP16V7J/) | 
-| **Total** || **$190** || **€245.3** ||
+| **Total** || **$184** || **€235** ||
 
 > Head to [3D Printing](3DPrinting.md) for the next step!
 
