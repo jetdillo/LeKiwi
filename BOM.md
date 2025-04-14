@@ -4,10 +4,10 @@ This page provides a complete list of parts needed to build the LeKiwi mobile ma
 
 | Price| US  | EU  |
 |---------|----:|----:|
-| **12V** |  **$482**  |  **€533**  |
+| **12V** |  **$482**  |  **€545.8**  |
 | **5V**  |  **$499**  |  **€526**  |
 | **Base only (5V)** |  **$248**  |  **€295**  |
-| **Base only (12V)** |  **$251.5**  |  **€295**  |
+| **Base only (12V)** |  **$251.5**  |  **€307.8**  |
 | **Base only  wired** |  **$184**  |  **€235**  |
 
 > [!NOTE] 
@@ -48,12 +48,12 @@ These parts are the same for both 5V and 12V versions:
 ### Mobile Base Electronics (12V):
 | Part | Amount | Unit Cost (US) | Buy (US) | Unit Cost (EU) | Buy (EU) |
 |:---|:---:|:---:|:---|:---:|---:|
-| 12v 5a Battery | 1 | $32.99 | [Amazon](https://www.amazon.com/KBT-Rechargeable-Connector-Replacement-Security/dp/B0C242DYT1/ref=sr_1_2_sspa?) | €32.99 | [Amazon](https://www.amazon.fr/NASTIMA-lithium-ion-Rechargeable-Caméscopes-électronique/dp/B09FK4ZDSL) |
+| 12v 5a Battery | 1 | $32.99 | [Amazon](https://www.amazon.com/KBT-Rechargeable-Connector-Replacement-Security/dp/B0C242DYT1/ref=sr_1_2_sspa?) | €45.79 | [Amazon](https://www.amazon.fr/dp/B0D5QSMW21) |
 | Lever Wire Connector | 1 | $6.70 | [Amazon](https://www.amazon.com/Wago-221-413-LEVER-NUTS-Conductor-Connectors/dp/B06XGYXVXR/ref=sr_1_4) | €7.18 | [Amazon](https://www.amazon.fr/221-413-fil-électrique-connecteur-220-240-Terminal/dp/B01AKF3I58) |
 | 12v 5a DC plug connector | 1 | $9.49 | [Amazon](https://www.amazon.com/43x2pcs-Connectors-Security-Lighting-MILAPEAK/dp/B072BXB2Y8/ref=sr_1_11) | €8.99 | [Amazon](https://www.amazon.fr/RUNCCI-YUN-Alimentation-dalimentation-Connecteur-Surveiller/dp/B0CX44HTKZ) |
 | 12v to 5v 5a USB-C converter | 1 | $9.99 | [Amazon](https://www.amazon.com/Klnuoxj-Converter-Interface-Waterproof-Compatible/dp/B0CRVW7N2J?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A1QRG6NHEUKUZO&gQT=0&th=1) | €9.99 | [Amazon](https://www.amazon.fr/Greluma-convertisseur-Adaptateur-dalimentation-Compatible/dp/B0D7VDL2X6) |
 | 12v ST3215 Feetech Servo | 3 | $13.89 | [Alibaba](https://www.alibaba.com/product-detail/Feetech-STS3215-SO-ARM100-Servo-12V_1601292634404.html?spm=a2700.details.you_may_like.3.5ab1478e45kY42) | €13.38 | [Alibaba](https://www.alibaba.com/product-detail/Feetech-STS3215-SO-ARM100-Servo-12V_1601292634404.html?spm=a2700.details.you_may_like.3.5ab1478e45kY42)  |
-| **Total** | | **$108.5** | | **€106.7** | |
+| **Total** | | **$108.5** | | **€118.8** | |
 
 
 ### SO-100 2 Robot Arm Teleoperation Set (12V):

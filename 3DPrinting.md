@@ -13,7 +13,7 @@ We provide ready-to-print STL files for the 3D-printed parts below. These can be
 | [Drive motor mount](3DPrintMeshes/drive_motor_mount_v2.stl) | 3 | |
 | [Servo wheel hub](/3DPrintMeshes/servo_wheel_hub.stl) | 3 | Use Supports<sup>[1](#footnote1)</sup> |
 | [Servo controller mount](/3DPrintMeshes/servo_controller_mount.stl) | 1 | |
-| [12v Battery mount](/3DPrintMeshes/battery_mount.stl) **or** [5v Battery mount](/3DPrintMeshes/5v_specific/5v_power_bank_holder.stl)| 1 | |
+| [12v Battery mount](/3DPrintMeshes/battery_mount.stl) **or** [12v EU Battery mount](/3DPrintMeshes/battery_mount_eu.stl) **or** [5v Battery mount](/3DPrintMeshes/5v_specific/5v_power_bank_holder.stl)| 1 | |
 | [RasPi case Top](/3DPrintMeshes/pi_case_top.stl) | 1 | <sup>[2](#footnote2)</sup> |
 | [RasPi case Bottom](/3DPrintMeshes/pi_case_bottom.stl) | 1 | <sup>[2](#footnote2)</sup> |
 | Arducam [base mount](/3DPrintMeshes/base_camera_mount.stl) and [Wrist mount](/3DPrintMeshes/wrist_camera_mount.stl)| 1 | **Compatible with [this camera](https://www.amazon.com/Arducam-Camera-Computer-Without-Microphone/dp/B0972KK7BC)** |
