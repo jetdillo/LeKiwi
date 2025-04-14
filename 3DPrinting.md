@@ -10,7 +10,7 @@ We provide ready-to-print STL files for the 3D-printed parts below. These can be
 |:---|:---:|:---:|
 | [Base plate Top](/3DPrintMeshes/base_plate_layer2.stl) | 1 | |
 | [Base plate Bottom](/3DPrintMeshes/base_plate_layer1.stl) | 1 | |
-| [Drive motor mount](/3DPrintMeshes/drive_motor_mount.stl) | 3 | |
+| [Drive motor mount](3DPrintMeshes/drive_motor_mount_v2.stl) | 3 | |
 | [Servo wheel hub](/3DPrintMeshes/servo_wheel_hub.stl) | 3 | Use Supports<sup>[1](#footnote1)</sup> |
 | [Servo controller mount](/3DPrintMeshes/servo_controller_mount.stl) | 1 | |
 | [12v Battery mount](/3DPrintMeshes/battery_mount.stl) **or** [5v Battery mount](/3DPrintMeshes/5v_specific/5v_power_bank_holder.stl)| 1 | |
