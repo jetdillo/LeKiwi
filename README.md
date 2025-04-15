@@ -1,6 +1,6 @@
 # LeKiwi
 <div style="display: flex; justify-content: center; align-items: center; padding: 25px;">
-    <img src="media/167040694.png" height="75" style="background-color: white; padding: 10px;"/>
+    <img src="media/sigrobotics-logo.png" height="75" style="background-color: white; padding: 10px;"/>
     <img src="media/University-of-Illinois-logo.jpg" height="75" style="background-color: white; padding: 10px;"/>
     <img src="media/hf-logo-with-title.png" height="75" style="background-color: white; padding: 10px;"/>
     <img src="media/lerobot-logo-light.png" height="75" style="background-color: white; padding: 10px;"/>
