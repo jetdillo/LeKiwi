@@ -36,7 +36,7 @@
 - 3-wheel Kiwi (holonomic) drive with omni wheels
 
 #### Robot Arm
-- [SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100)
+- [SO-ARM101](https://github.com/TheRobotStudio/SO-ARM100)
 
 #### Sensors
 - Workspace rgb camera
