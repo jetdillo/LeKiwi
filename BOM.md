@@ -55,7 +55,7 @@ These parts are the same for both 5V and 12V versions:
 | **Total** | | **$108.5** | | **€118.8** | | **￥426.60** | |
 
 
-### SO-100 2 Robot Arm Teleoperation Set (12V):
+### SO-101 2 Robot Arm Teleoperation Set (12V):
 | Part | Amount | Unit Cost (US) | Buy (US) | Unit Cost (EU) | Buy (EU) | Unit Cost (CN) | Buy (CN) |
 |:---|:---:|:---:|:---|:---:|---:|:-:|-|
 | 12v ST3215 Servo | 12 | $13.89 | [Alibaba](https://www.alibaba.com/product-detail/Feetech-STS3215-SO-ARM100-Servo-12V_1601292634404.html?spm=a2700.details.you_may_like.3.5ab1478e45kY42) | €13.38 | [Alibaba](https://www.alibaba.com/product-detail/Feetech-STS3215-SO-ARM100-Servo-12V_1601292634404.html?spm=a2700.details.you_may_like.3.5ab1478e45kY42) | ￥110  |[Taobao](https://e.tb.cn/h.64H9u3maGWzIp5Q?tk=T5liexkG6Yz "https://e.tb.cn/h.64H9u3maGWzIp5Q?tk=T5liexkG6Yz")|
@@ -75,7 +75,7 @@ These parts are the same for both 5V and 12V versions:
 | **Total** | | **$105** | | **€106.6** | | **￥496.80** | |
 
 
-### SO-100 2 Robot Arm Teleoperation Set (5V):
+### SO-101 2 Robot Arm Teleoperation Set (5V):
 | Part | Amount | Unit Cost (US) | Buy US | Unit Cost (EU) | Buy EU |  Unit Cost (CN) | Buy (CN) |
 |---|---|---|---|---|---|---|---|
 | STS3215 Servo | 12 | $15 | [Alibaba](https://www.alibaba.com/product-detail/6PCS-7-4V-STS3215-Servos-for_1600523509006.html) | €13 | [Alibaba](https://www.alibaba.com/product-detail/6PCS-7-4V-STS3215-Servos-for_1600523509006.html) | ￥99  |[Taobao](https://e.tb.cn/h.6RhJCXsXFrqIabq?tk=ve0EV12Wg26)|

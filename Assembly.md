@@ -3,7 +3,7 @@
 
 *Exact component placements can be visualized in the [Fusion360 Online CAD](https://a360.co/4k1P8yO)*
 
-*We assume you already have a [SO-100 Arm](https://github.com/TheRobotStudio/SO-ARM100) built*
+*We assume you already have a [SO-100/SO-101 Arm](https://github.com/TheRobotStudio/SO-ARM100) built*
 ### 1. Assemble Wheel Modules (3 per robot)
 
 1. Attach the drive motor to the motor mount using 4 m2x5 tap screws.
@@ -54,7 +54,7 @@ With all 3 modules attached to the bottom base plate:
 
 ### 3. Top plate Assembly
 1. Place the raspberry pi 5 into the pi case bottom and snap on the top part of the case. 
-2. Attach the Pi to the top base plate using 2 m3x12 machine screws and mount the SO-100 arm with 4 m3x20 machine screws. Using our modified SO-100 base or the original will work as there are holes for both in the plate.
+2. Attach the Pi to the top base plate using 2 m3x12 machine screws and mount the SO-101 arm with 4 m3x20 machine screws. Using our modified SO-101 base or the original will work as there are holes for both in the plate.
 
     <img src="media/assembly_imgs/IMG_1929.jpg" width="400" />
 
@@ -74,7 +74,7 @@ With all 3 modules attached to the bottom base plate:
 
 
 ### 4. Final Assembly
-1. Feed the servo controller usb-c to usb-a, 5v usb-c power, and so-100 servo wires through the hole in the top base plate. 
+1. Feed the servo controller usb-c to usb-a, 5v usb-c power, and SO0-101 servo wires through the hole in the top base plate. 
 
     <img src="media/assembly_imgs/IMG_1930.jpg" width="300" />
 
