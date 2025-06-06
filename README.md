@@ -15,7 +15,7 @@
 1. [Bill of Materials](BOM.md)
 2. [3D Printing](3DPrinting.md)
 3. [Assembly](Assembly.md)
-4. [Get started with LeRobot](https://github.com/huggingface/lerobot/blob/main/examples/11_use_lekiwi.md)
+4. [Get started with LeRobot](https://huggingface.co/docs/lerobot/lekiwi)
 
 ## Hardware Design
 #### Standardized Stacked Base Plates
